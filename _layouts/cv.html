@@ -1,0 +1,169 @@
+---
+layout: default
+---
+
+{{ content }}
+
+<div class="row g-5 mb-5">
+  <div>
+    
+    <h3 class="fw-bold border-bottom pb-3 mb-5">Curriculum Vitae</h3>
+
+    <!--- 1. Contact/Address --->
+    <div class="row g-5 mb-5">
+      <div class="col-md-2">
+        <h4 class="border-bottom">Address</h4>
+      </div>
+      <div class="col-md-10">
+        {% for section in site.data.cv.address %}
+          <p class="fw-bold">{{ section.title }}</p>
+          <p>{{ section.description }}</p>
+        {% endfor %}
+      </div>
+    </div>
+    
+    <!--- 2. Education --->
+    <div class="row g-5 mb-5">
+      <div class="col-md-2">
+        <h4 class="border-bottom">Education</h4>
+      </div>
+      <div class="col-md-10">
+        {% for section in site.data.cv.education %}
+          <p class="fw-bold">{{ section.title }}</p>
+          <p>{{ section.description }}</p>
+        {% endfor %}
+      </div>
+    </div>
+
+    <!--- 3. Research Interests --->
+    <div class="row g-5 mb-5">
+      <div class="col-md-2">
+        <h4 class="border-bottom">Research Interests</h4>
+      </div>
+      <div class="col-md-10">
+        {% for section in site.data.cv.interests %}
+          <p class="fw-bold">{{ section.title }}</p>
+          <p>{{ section.description }}</p>
+        {% endfor %}
+      </div>
+    </div>
+    
+    <!--- 4. Honors --->
+    <div class="row g-5 mb-5">
+      <div class="col-md-2">
+        <h4 class="border-bottom">Honors</h4>
+      </div>
+      <div class="col-md-10">
+        {% for section in site.data.cv.honors %}
+          <p class="fw-bold">{{ section.title }}</p>
+          <p>{{ section.description }}</p>
+        {% endfor %}
+      </div>
+    </div>
+
+    <!--- 5. Scholarships --->
+    <div class="row g-5 mb-5">
+      <div class="col-md-2">
+        <h4 class="border-bottom">Scholarships</h4>
+      </div>
+      <div class="col-md-10">
+        {% for section in site.data.cv.scholarships %}
+          <p class="fw-bold">{{ section.title }}</p>
+          <p>{{ section.description }}</p>
+        {% endfor %}
+      </div>
+    </div>
+
+    <!--- 6. Publications --->
+    <div class="row g-5 mb-5">
+      <div class="col-md-2">
+        <h4 class="border-bottom">Publications</h4>
+      </div>
+      <div class="col-md-10">
+        {% for section in site.data.cv.publications %}
+          <p class="fw-bold">{{ section.title }}</p>
+          <p>{{ section.description }}</p>
+        {% endfor %}
+      </div>
+    </div>
+
+    <!--- 7. Research Experience --->
+    <div class="row g-5 mb-5">
+      <div class="col-md-2">
+        <h4 class="border-bottom">Research Experiences</h4>
+      </div>
+      <div class="col-md-10">
+        {% for section in site.data.cv.research %}
+          <p class="fw-bold">{{ section.title }}</p>
+          <p>{{ section.description }}</p>
+        {% endfor %}
+      </div>
+    </div>
+
+    <!--- 8. Other Experience --->
+    <div class="row g-5 mb-5">
+      <div class="col-md-2">
+        <h4 class="border-bottom">Other Experiences</h4>
+      </div>
+      <div class="col-md-10">
+        {% for section in site.data.cv.experience %}
+          <p class="fw-bold">{{ section.title }}</p>
+          <p>{{ section.description }}</p>
+        {% endfor %}
+      </div>
+    </div>
+
+    <!--- 9. Talks and Conferences --->
+    <div class="row g-5 mb-5">
+      <div class="col-md-2">
+        <h4 class="border-bottom">Talks</h4>
+      </div>
+      <div class="col-md-10">
+        {% for section in site.data.cv.talks %}
+          <p class="fw-bold">{{ section.title }}</p>
+          <p>{{ section.description }}</p>
+        {% endfor %}
+      </div>
+    </div>
+
+    <!--- 10. Mentorships and Services --->
+    <div class="row g-5 mb-5">
+      <div class="col-md-2">
+        <h4 class="border-bottom">Services</h4>
+      </div>
+      <div class="col-md-10">
+        {% for section in site.data.cv.service %}
+          <p class="fw-bold">{{ section.title }}</p>
+          <p>{{ section.description }}</p>
+        {% endfor %}
+      </div>
+    </div>
+
+    <!--- 11. Professional Memberships --->
+    <div class="row g-5 mb-5">
+      <div class="col-md-2">
+        <h4 class="border-bottom">Memberships</h4>
+      </div>
+      <div class="col-md-10">
+        {% for section in site.data.cv.memberships %}
+          <p class="fw-bold">{{ section.title }}</p>
+          <p>{{ section.description }}</p>
+        {% endfor %}
+      </div>
+    </div>
+
+    <!--- 12. Miscellaneous --->
+    <div class="row g-5 mb-5">
+      <div class="col-md-2">
+        <h4 class="border-bottom">Miscellaneous</h4>
+      </div>
+      <div class="col-md-10">
+        {% for section in site.data.cv.miscellaneous %}
+          <p class="fw-bold">{{ section.title }}</p>
+          <p>{{ section.description }}</p>
+        {% endfor %}
+      </div>
+    </div>
+    
+  </div>
+</div>

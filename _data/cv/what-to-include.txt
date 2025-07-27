@@ -1,0 +1,50 @@
+My Order
+
+ 1. Address
+ 2. Research Interests
+ 3. Education
+ 4. Honors (Selected)
+ 5. Scholarships
+ 6. Publications
+ 7. Research Experience
+ 8. Other Experience
+ 9. Talks and Conferences Attended
+10. Mentorship and Service
+11. Professional Memberships
+12. Miscellaneous
+
+---
+
+ 1.  Contact Information
+ 2.  Research Interests
+ 3.  Education
+ 4.  Honors and Scholarships
+ 5.  Publications
+ 6.  Research Experience
+ 7.  Teaching Experience
+ 8.  Industry Experience
+ 9.  Talks and Tutorials
+10.  Mentorship and Service
+11.  Professional Memberships
+12.  Technical Skills
+13.  Other Interests
+
+Reference: Overleaf
+
+---
+
+ 1.  Contact Information
+ 2.  Research Objective or Personal Profile
+ 3.  Education Section
+ 4.  Professional Appointments
+ 5.  Research Publications
+ 6.  Awards and Honors
+ 7.  Grants and Fellowships
+ 8.  Conferences Attended
+ 9.  Teaching Experience
+10.  Research Experience
+11.  Additional Activities
+12.  Languages and Skills
+13.  References
+
+Reference: Wordvice

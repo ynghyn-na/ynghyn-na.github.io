@@ -1,0 +1,4 @@
+---
+layout: acceptances
+title: "Acceptances"
+---
