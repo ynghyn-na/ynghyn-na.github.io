@@ -1,8 +1,11 @@
 - title: 'Languages'
-  description: 'Korean (native tongue), English (proficient), French (studying)'
+  description: 'Korean, English'
 
 - title: 'Programming'
-  description: 'Python, MATLAB, C, C++'
+  description: 'Python, MATLAB, C, C++, C#'
+
+- title: 'Available Tools'
+  description: 'KiCad, Fusion360, LTspice, XTool, CNC/MCT Machine, Rotating Tools, Woodworking Tools, Spot welding machine, Soldering station'
 
 - title: 'Writing'
   description: 'LaTeX, Microsoft Word'
