@@ -1,30 +1,26 @@
-@@ -1,29 +0,0 @@
 # format:
 # - title: '[award title]'
 #   description: '[description] ([MMM YYYY])'
 
-- title: 'International Youth Math Challenge 2024'
-  description: 'Bronze Honour, IYMC Team Coordinator & IYMC Program Coordinator (Feb 2025)<br>
-  Special Honour, IYMC Team Coordinator & IYMC Program Coordinator (Dec 2024)'
 
-- title: 'American Mathematics Competition 2024'
-  description: 'Certificate of Excellence, Mathematical Association of America President & the AMC 10/12 Co Editor in Chief (Dec 2024)'
+- title: 'Grand Prize, SPARKSNACK Ideathon'
+  description: 'Top award at Seoul National University and KAIST Collaborative Ideathon. we startup 식(食)스센스, which recomand lunch for company (Feb 2025)'
 
-- title: '2024 Talent Award of Korea'
-  description: 'Award, Deputy Prime Minister and Minister of Education of the Republic of Korea (Dec 2024)'
+- title: 'Top Honors Awardee, POSTECH Young Entrepreneur Program'
+  description: '“I’m Possible” awardee, entrepreneurship program. i made good score in that program (Jul 2022)'
 
-- title: '2024 KOSAC Research & Education'
-  description: 'Excellence Prize, President of Korea Foundation for Science and Creativity (Dec 2024)'
+- title: 'Excellence Award, Gyeongbuk Science Fair'
+  description: 'Project on vacuum temperature & food spoilage (Jul 2020)'
+  
+- title: 'Honorable Mention, Idea Factory Prototyping Contest'
+  description: 'KAIST campus prototyping contest. my water-cooled clothes got this award. This cools the body by cooling water with a Peltier element and circulating it over the body surface. (Jul 2025)'
 
-- title: '20th Busan Future Scientist Award'
-  description: 'Grand Prize, Co-Chairmen of Federation of Busan Science and Technology (Dec 2024)'
+- title: 'Team Leader, Qualcomm Fellowship Team of FTC'
+  description: 'i lead my Qualcomm Fellowship Team as team Leader in FTC(FIRST Tech Challenge) which make robots and geting high score (Dec 2024)'
+  
+- title: 'Team Leader, AI Hackathon'
+  description: 'Lead roles in AI hackathon. our team made ai blinder (Jun 2023)'
 
-- title: 'International Astronomy and Astrophysics Competition 2024'
-  description: 'Silver Honour, IAAC Team Coordinator & IAAC Program Coordinator (Jul 2024)<br>
-  Special Honour, IAAC Team Coordinator & IAAC Program Coordinator (May 2024)'
 
-- title: "Childfund Korea's Plaque of Appreciation"
-  description: 'Plaque, Chairman of Childfund Korea (May 2024)'
 
-- title: 'American Mathematics Competition 2022'
-  description: 'Certificate of Distinction, Mathematical Association of America President & the AMC 10/12 Co Editor in Chief (Dec 2022)'
+
