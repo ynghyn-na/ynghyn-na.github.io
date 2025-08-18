@@ -1,21 +1,11 @@
 menu:
 - {name: 'CURRICULUM VITAE', url: '/cv'}
-- {name: 'COURSEWORK', url: '/coursework-term'}
-
-acceptances:
-- {name: 'Acceptances', url: '/acceptances'}
-
-coursework:
-- {name: 'COURSEWORK', url: '/coursework-field'}
-- {name: 'Plan by Term', url: '/plan-term'}
-- {name: 'Plan by Field', url: '/plan-field'}
 
 contact:
 - {name: 'CONTACT', url: '/contact'}
 
 social:
-- {icon: 'envelope', link: 'mailto:mjeong [at] kaist [dot] ac [dot] kr'}
-- {icon: 'orcid', link: 'https://orcid.org/0009-0000-6873-5271'}
+- {icon: 'envelope', link: 'mailto:epoch1026 [at] kaist [dot] ac [dot] kr'}
 
 contacts:
-- {name: 'Minho Jeong', title: 'Undergraduate Student (Freshman)', school: 'Korea Advanced Institute of Science and Technology', number: 'Class of 2029', email: 'mjeong [at] kaist [dot] ac [dot] kr', orcid: '<span>0009</span>-<span>0000</span>-<span>6873</span>-<span>5271</span>'}
+- {name: 'YeongHyeon Na', title: 'Undergraduate Student (Freshman)', school: 'Korea Advanced Institute of Science and Technology', number: 'Class of 2029', email: 'epoch1026 [at] kaist [dot] ac [dot] kr''}
