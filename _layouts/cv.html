@@ -61,19 +61,6 @@ layout: default
       </div>
     </div>
 
-    <!--- 5. Scholarships --->
-    <div class="row g-5 mb-5">
-      <div class="col-md-2">
-        <h4 class="border-bottom">Scholarships</h4>
-      </div>
-      <div class="col-md-10">
-        {% for section in site.data.cv.scholarships %}
-          <p class="fw-bold">{{ section.title }}</p>
-          <p>{{ section.description }}</p>
-        {% endfor %}
-      </div>
-    </div>
-
     <!--- 6. Publications --->
     <div class="row g-5 mb-5">
       <div class="col-md-2">
@@ -81,19 +68,6 @@ layout: default
       </div>
       <div class="col-md-10">
         {% for section in site.data.cv.publications %}
-          <p class="fw-bold">{{ section.title }}</p>
-          <p>{{ section.description }}</p>
-        {% endfor %}
-      </div>
-    </div>
-
-    <!--- 7. Research Experience --->
-    <div class="row g-5 mb-5">
-      <div class="col-md-2">
-        <h4 class="border-bottom">Research Experiences</h4>
-      </div>
-      <div class="col-md-10">
-        {% for section in site.data.cv.research %}
           <p class="fw-bold">{{ section.title }}</p>
           <p>{{ section.description }}</p>
         {% endfor %}
