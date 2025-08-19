@@ -1,2 +1,21 @@
-- title: 'Berkeley Summer Sessions'
-  description: 'University of California, Berkeley (funded by KAIST) (Jun 23–Aug 15, 2025)'
+- title: 'Internal Research Project'
+  description: '<b>Pond Water-Quality Sensing & Purification Robot</b> — Real-time water monitoring with autonomous purification.'
+
+- title: 'Personal Project'
+  description: '<ul>
+    <li><b>EMG Fitness Assist Device</b> — Exercise assistance and feedback by visualizing electromyography (EMG) signals.</li>
+    <li><b>Silent Electrical Muscle Stimulation Alarm</b> — A personal wake-up wearable that uses electrical muscle stimulation and does not disturb roommates.</li>
+    <li><b>Shortcut-Key & Joystick Auxiliary Keyboard</b> — Custom input device combining hotkeys (Ctrl+C, Ctrl+V, Alt+F4, etc.) and joystick control.</li>
+    <li><b>Don&#39;t Sleep! (V1)</b> — Wearable alert device that detects drowsiness using IMU sensors.</li>
+    <li><b>Don&#39;t Sleep! (V2)</b> — Vision-based AI for detecting drowsiness and attention drift (YOLOv5).</li>
+    <li><b>Water-Cooled Garment</b> — A body-cooling garment using Peltier modules.</li>
+    <li><b>Studymate</b> — A stretch-reminder timer that supports posture and well-being during study sessions.</li>
+    <li><b>Forward-Head Posture Prevention Chair</b> — Uses an IR distance sensor to provide real-time posture feedback.</li>
+    <li><b>Senior Home Safety Monitor</b> — Door-open and gas-sensing system for elder care (uses an MQ-5 sensor to detect LPG/LNG).</li>
+    <li><b>PMV-Based Smart Fan</b> — Computes PMV with DHT11 data to auto-tune comfort. PMV predicts the average thermal-sensation vote on a thermal-comfort scale.</li>
+    <li><b>Motion-Sensing Lamp Retrofit</b> — Adds motion detection to a low-cost desk lamp.</li>
+    <li><b>Slip-Prevention Clip</b> — Simple clip mechanism that prevents belt loosening. Using this instead of a standard belt lets users wear suit pants with sportswear-like convenience.</li>
+    <li><b>Carpool Matching Platform</b> — Azure + DBSCAN–based optimization for ride sharing; still used for my high-school commute.</li>
+    <li><b>Gram-Stain Bacterial Classifier</b> — ML model that classifies Gram-positive/negative bacteria from microscopy images (uses a Fast-CNN model).</li>
+    <li><b>Chest X-ray COVID Classifier</b> — Deep-learning model that detects infection from radiographs (uses a CNN model).</li>
+  </ul>'
