@@ -1,8 +1,8 @@
 - title: 'Internal Research Project'
-  description: '<ul style="font-size: 0.8em;"><li><b>Pond Water-Quality Sensing & Purification Robot</b> — Real-time water monitoring with autonomous purification.</li></ul>'
+  description: '<ul style="font-size: 0.9em;"><li><b>Pond Water-Quality Sensing & Purification Robot</b> — Real-time water monitoring with autonomous purification.</li></ul>'
 
 - title: 'Personal Project'
-  description: '<ul style="font-size: 0.8em;">
+  description: '<ul style="font-size: 0.9em;">
     <li><b>EMG Fitness Assist Device</b> — Exercise assistance and feedback by visualizing electromyography (EMG) signals.</li>
     <li><b>Silent Electrical Muscle Stimulation Alarm</b> — A personal wake-up wearable that uses electrical muscle stimulation and does not disturb roommates.</li>
     <li><b>Shortcut-Key & Joystick Auxiliary Keyboard</b> — Custom input device combining hotkeys (Ctrl+C, Ctrl+V, Alt+F4, etc.) and joystick control.</li>
