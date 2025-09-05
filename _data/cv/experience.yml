@@ -1,8 +1,8 @@
 - title: 'Internal Research Project'
-  description: '<small><ul><li><b>Pond Water-Quality Sensing & Purification Robot</b> — Real-time water monitoring with autonomous purification.</li></ul><small>'
+  description: '<ul style="font-size: 0.8em;"><li><b>Pond Water-Quality Sensing & Purification Robot</b> — Real-time water monitoring with autonomous purification.</li></ul>'
 
 - title: 'Personal Project'
-  description: '<small><ul>
+  description: '<ul style="font-size: 0.8em;">
     <li><b>EMG Fitness Assist Device</b> — Exercise assistance and feedback by visualizing electromyography (EMG) signals.</li>
     <li><b>Silent Electrical Muscle Stimulation Alarm</b> — A personal wake-up wearable that uses electrical muscle stimulation and does not disturb roommates.</li>
     <li><b>Shortcut-Key & Joystick Auxiliary Keyboard</b> — Custom input device combining hotkeys (Ctrl+C, Ctrl+V, Alt+F4, etc.) and joystick control.</li>
@@ -18,4 +18,4 @@
     <li><b>Carpool Matching Platform</b> — Azure + DBSCAN–based optimization for ride sharing; still used for my high-school commute.</li>
     <li><b>Gram-Stain Bacterial Classifier</b> — ML model that classifies Gram-positive/negative bacteria from microscopy images (uses a Fast-CNN model).</li>
     <li><b>Chest X-ray COVID Classifier</b> — Deep-learning model that detects infection from radiographs (uses a CNN model).</li>
-  </ul></small>'
+  </ul>'
