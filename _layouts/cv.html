@@ -31,8 +31,10 @@ layout: default
       </div>
       <div class="col-md-10">
         {% for section in site.data.cv.internship %}
-          <p class="fw-bold">{{ section.title }}</p>
-          <p>{{ section.description }}</p>
+          <p class="fw-bold">{{ section.title }}</br>
+          <small class="text-muted">{{ section.duration }}</small>
+          </p>
+        <p>{{ section.description }}</p>
         {% endfor %}
       </div>
     </div>
@@ -44,8 +46,10 @@ layout: default
       </div>
       <div class="col-md-10">
         {% for section in site.data.cv.honors %}
-          <p class="fw-bold">{{ section.title }}</p>
-          <p>{{ section.description }}</p>
+          <p class="fw-bold">{{ section.title }}</br>
+          <small class="text-muted">{{ section.duration }}</small>
+          </p>
+        <p>{{ section.description }}</p>
         {% endfor %}
       </div>
     </div>
@@ -57,7 +61,9 @@ layout: default
       </div>
       <div class="col-md-10">
         {% for section in site.data.cv.publications %}
-          <p class="fw-bold">{{ section.title }}</p>
+          <p class="fw-bold">{{ section.title }}</br>
+          <small class="text-muted">{{ section.duration }}</small>
+          </p>
           <p>{{ section.description }}</p>
         {% endfor %}
       </div>
@@ -70,7 +76,9 @@ layout: default
       </div>
       <div class="col-md-10">
         {% for section in site.data.cv.experience %}
-          <p class="fw-bold">{{ section.title }}</p>
+          <p class="fw-bold">{{ section.title }}</br>
+          <small class="text-muted">{{ section.duration }}</small>
+          </p>
           <p>{{ section.description }}</p>
         {% endfor %}
       </div>
@@ -83,7 +91,9 @@ layout: default
       </div>
       <div class="col-md-10">
         {% for section in site.data.cv.talks %}
-          <p class="fw-bold">{{ section.title }}</p>
+          <p class="fw-bold">{{ section.title }}</br>
+          <small class="text-muted">{{ section.duration }}</small>
+          </p>
           <p>{{ section.description }}</p>
         {% endfor %}
       </div>
@@ -97,7 +107,9 @@ layout: default
       </div>
       <div class="col-md-10">
         {% for section in site.data.cv.service %}
-          <p class="fw-bold">{{ section.title }}</p>
+          <p class="fw-bold">{{ section.title }}</br>
+          <small class="text-muted">{{ section.duration }}</small>
+          </p>
           <p>{{ section.description }}</p>
         {% endfor %}
       </div>
@@ -110,7 +122,9 @@ layout: default
       </div>
       <div class="col-md-10">
         {% for section in site.data.cv.memberships %}
-          <p class="fw-bold">{{ section.title }}</p>
+          <p class="fw-bold">{{ section.title }}</br>
+          <small class="text-muted">{{ section.duration }}</small>
+          </p>
           <p>{{ section.description }}</p>
         {% endfor %}
       </div>
@@ -123,7 +137,9 @@ layout: default
       </div>
       <div class="col-md-10">
         {% for section in site.data.cv.miscellaneous %}
-          <p class="fw-bold">{{ section.title }}</p>
+          <p class="fw-bold">{{ section.title }}</br>
+          <small class="text-muted">{{ section.duration }}</small>
+          </p>
           <p>{{ section.description }}</p>
         {% endfor %}
       </div>
@@ -136,7 +152,9 @@ layout: default
       </div>
       <div class="col-md-10">
         {% for section in site.data.cv.address %}
-          <p class="fw-bold">{{ section.title }}</p>
+          <p class="fw-bold">{{ section.title }}</br>
+          <small class="text-muted">{{ section.duration }}</small>
+          </p>
           <p>{{ section.description }}</p>
         {% endfor %}
       </div>
