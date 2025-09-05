@@ -1,11 +1,11 @@
 - title: 'Languages'
-  description: 'Korean, English'
+  description: 'Korean, English<br>'
 
 - title: 'Programming'
-  description: 'Python, MATLAB, C, C++, C#'
+  description: 'Python, MATLAB, C, C++, C#<br>'
 
 - title: 'Available Tools'
-  description: 'KiCad, Fusion360, LTspice, XTool, CNC/MCT Machine, Rotating Tools, Woodworking Tools, Spot welding machine, Soldering station'
+  description: 'KiCad, Fusion360, LTspice, XTool, CNC/MCT Machine, Rotating Tools, Woodworking Tools, Spot welding machine, Soldering station<br>'
 
 - title: 'Writing'
-  description: 'LaTeX, Microsoft Word'
+  description: 'LaTeX, Microsoft Word<br>'
