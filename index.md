@@ -10,5 +10,5 @@ title: "Home"
 <p>If you'd like to get in touch, feel free to check out my <strong><a href="https://ynghyn-na.github.io/contact" style="text-decoration-line: none"><font color="#1487C8">contact information</font></a></strong> or visit the footer of this page.</p>
 
 .orange {
-color: orange;
+font-color: orange;
 }
