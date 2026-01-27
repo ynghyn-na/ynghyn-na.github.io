@@ -3,11 +3,15 @@
 #   description: '[description] ([MMM YYYY])'
 
 
+- title: 'Excellence Award, KAIST Color Your 2025 Project'
+  description: 'Recognized for a implemented water-cooled wearable system addressing heat stress in sealed high-temperature environments, extending a prototype previously awarded at the KAIST Ideafactory Prototyping Contest.<br>'
+  duration: '(Dec 2025)'
+
 - title: 'Grand Prize, SPARCSNACK Ideathon'
   description: 'Top award at the Seoul National University–KAIST collaborative ideathon; founded “식(食)스센스,” a smart lunch recommender for workplaces.<br>'
   duration: '(Feb 2025)'
 
-- title: 'Top Honors Awardee, POSTECH Young Entrepreneur Program'
+- title: 'Top Honors Award, POSTECH Young Entrepreneur Program'
   description: '“I’m Possible” awardee in the POSTECH Young Entrepreneur Program; achieved a top evaluation.<br>' 
   duration: '(Jul 2022)'
 
@@ -15,7 +19,7 @@
   description: 'Study on vacuum temperature changes and their effects on food spoilage.<br>'
   duration: '(Jul 2020)'
   
-- title: 'Honorable Mention, Idea Factory Prototyping Contest'
+- title: 'Commendation Award, KAIST Idea Factory Prototyping Contest'
   description: 'KAIST prototyping contest; awarded for a water-cooled garment using Peltier elements to chill and circulate water for body cooling.<br>'
   duration: '(Jul 2025)'
 
