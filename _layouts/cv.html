@@ -46,11 +46,25 @@ layout: default
       </div>
       <div class="col-md-10">
         {% for section in site.data.cv.honors %}
-          <p class="fw-bold">{{ section.title }}</br>
-          <small class="text-muted">{{ section.duration }}</small>
+          <p class="fw-bold">
+            {% if section.image %}
+              <a href="#"
+                 class="text-decoration-none"
+                 data-bs-toggle="modal"
+                 data-bs-target="#awardModal"
+                 data-title="{{ section.title | escape }}"
+                 data-img="{{ section.image | relative_url }}">
+                {{ section.title }}
+              </a>
+            {%  else %}
+              {{ section.title }}
+            {% endif %}
+            <br>
+            <small class="text-muted">{{ section.duration }}</small>
           </p>
-        <p>{{ section.description }}<br></p>
+          <p>{{ section.description }}<br></p>
         {% endfor %}
+
       </div>
     </div>
 
@@ -163,3 +177,32 @@ layout: default
     
   </div>
 </div>
+
+<!-- Award Image Modal -->
+<div class="modal fade" id="awardModal" tabindex="-1" aria-hidden="true">
+  <div class="modal-dialog modal-lg modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="awardModalTitle"></h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body text-center">
+        <img id="awardModalImg" src="" alt="" class="img-fluid rounded">
+      </div>
+    </div>
+  </div>
+</div>
+<script>
+  const awardModal = document.getElementById('awardModal');
+  awardModal.addEventListener('show.bs.modal', function (event) {
+    const link = event.relatedTarget;
+    const title = link.getAttribute('data-title');
+    const img = link.getAttribute('data-img');
+
+    document.getElementById('awardModalTitle').textContent = title;
+    const imgEl = document.getElementById('awardModalImg');
+    imgEl.src = img;
+    imgEl.alt = title;
+  });
+</script>
+
