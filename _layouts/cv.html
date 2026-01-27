@@ -56,7 +56,7 @@ layout: default
                  data-img="{{ section.image | relative_url }}">
                 {{ section.title }}
               </a>
-            {%  else %}
+            {% else %}
               {{ section.title }}
             {% endif %}
             <br>
@@ -192,9 +192,13 @@ layout: default
     </div>
   </div>
 </div>
+
 <script>
+document.addEventListener('DOMContentLoaded', () => {
   const awardModal = document.getElementById('awardModal');
-  awardModal.addEventListener('show.bs.modal', function (event) {
+  if (!awardModal) return;
+
+  awardModal.addEventListener('show.bs.modal', (event) => {
     const link = event.relatedTarget;
     const title = link.getAttribute('data-title');
     const img = link.getAttribute('data-img');
@@ -204,5 +208,7 @@ layout: default
     imgEl.src = img;
     imgEl.alt = title;
   });
+});
 </script>
+
 
