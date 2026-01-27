@@ -6,27 +6,33 @@
 - title: 'Excellence Award, KAIST Color Your 2025 Project'
   description: 'Recognized for a implemented water-cooled wearable system addressing heat stress in sealed high-temperature environments, extending a prototype previously awarded at the KAIST Ideafactory Prototyping Contest.<br>'
   duration: '(Dec 2025)'
+  image: "/assets/img/awards/1-KAIST-Color-Your-2025-Project.jpg"
 
 - title: 'Grand Prize, SPARCSNACK Ideathon'
   description: 'Top award at the Seoul National University–KAIST collaborative ideathon; founded “식(食)스센스,” a smart lunch recommender for workplaces.<br>'
   duration: '(Feb 2025)'
+  image: "/assets/img/awards/2-SPARCSNACK-Ideathon.jpg"
 
 - title: 'Top Honors Award, POSTECH Young Entrepreneur Program'
   description: '“I’m Possible” awardee in the POSTECH Young Entrepreneur Program; achieved a top evaluation.<br>' 
   duration: '(Jul 2022)'
+  image: "/assets/img/awards/3-POSTECH-Young-Entrepreneur-Program.jpg"
 
 - title: 'Excellence Award, Gyeongbuk Science Fair'
   description: 'Study on vacuum temperature changes and their effects on food spoilage.<br>'
   duration: '(Jul 2020)'
-  
+  image: "/assets/img/awards/4-Gyeongbuk-Science-Fair.jpg"
+
 - title: 'Commendation Award, KAIST Idea Factory Prototyping Contest'
   description: 'KAIST prototyping contest; awarded for a water-cooled garment using Peltier elements to chill and circulate water for body cooling.<br>'
   duration: '(Jul 2025)'
+  image: "/assets/img/awards/5-KAIST-Idea-Factory-Prototyping-Contest.jpg"
 
 - title: 'Team Leader, FIRST Tech Challenge (FTC)'
   description: 'Led the Qualcomm Fellowship Team in the FIRST Tech Challenge (FTC); designed, built, and programmed competition robots; achieved high scores.<br>'
   duration: '(Dec 2024)'
-  
+  image: "/assets/img/awards/6-FIRST-Tech-Challenge.jpg"
+
 - title: 'Team Leader, AI Hackathon'
   description: 'Led an AI hackathon team; built an AI “Blinder” prototype.<br>'
   duration: '(Jun 2023)'
