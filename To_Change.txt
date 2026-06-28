@@ -2,5 +2,3 @@ footer.html 의 최근 수정 날짜
 
 index.md 에 웰컴메시지
 
-settings에 교육과정 추
-
