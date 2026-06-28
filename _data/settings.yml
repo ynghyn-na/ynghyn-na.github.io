@@ -5,7 +5,8 @@ contact:
 - {name: 'CONTACT', url: '/contact'}
 
 social:
-- {icon: 'envelope', link: 'mailto:epoch1026@kaist.ac.kr'}
+- {icon: 'envelope', link: 'mailto:epoch1026 [at] kaist [dot] ac [dot] kr'}
+- {icon: 'orcid', link: 'https://orcid.org/0009-0004-3464-6499'}
 
 contacts:
 - {name: 'YeongHyeon NA', title: 'Undergraduate Student (Electrical Engineering)', school: 'Korea Advanced Institute of Science and Technology', number: 'Class of 2029', email: 'epoch1026 [at] kaist [dot] ac [dot] kr', linkedin: 'https://www.linkedin.com/in/ynghyn-na', orcid: 'https://orcid.org/0009-0004-3464-6499'}
