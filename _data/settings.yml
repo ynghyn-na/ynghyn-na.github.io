@@ -10,3 +10,11 @@ social:
 
 contacts:
 - {name: 'YeongHyeon NA', title: 'Undergraduate Student (Electrical Engineering)', school: 'Korea Advanced Institute of Science and Technology', number: 'Class of 2029', email: 'epoch1026 [at] kaist [dot] ac [dot] kr', linkedin: 'ynghyn-na', orcid: '0009-0004-3464-6499'}
+
+coursework:
+
+#성과와 문서화가 안된 것들
+projects:
+
+#문서화되고 지도받은 오랜기간 한것
+research:
