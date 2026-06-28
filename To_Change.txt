@@ -1,1 +1,2 @@
-foot
+footer.html 의 최근 수정 날짜
+
