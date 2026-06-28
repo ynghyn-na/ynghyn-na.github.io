@@ -8,7 +8,22 @@ layout: default
   <div>
     
     <h3 class="fw-bold border-bottom pb-3 mb-5">Curriculum Vitae</h3>
-    
+
+        <!--- 1. Contact/Address --->
+    <div class="row g-5 mb-5">
+      <div class="col-md-2">
+        <h4 class="border-bottom">Address</h4>
+      </div>
+      <div class="col-md-10">
+        {% for section in site.data.cv.address %}
+          <p class="fw-bold">{{ section.title }}</br>
+          <small class="text-muted">{{ section.duration }}</small>
+          </p>
+          <p>{{ section.description }}<br></p>
+        {% endfor %}
+      </div>
+    </div>
+
     <!--- 2. Education --->
     <div class="row g-5 mb-5">
       <div class="col-md-2">
@@ -24,10 +39,26 @@ layout: default
       </div>
     </div>
 
-    <!--- 3. Internships --->
+
+    <!--- 3-1. Research experience --->
     <div class="row g-5 mb-5">
       <div class="col-md-2">
-        <h4 class="border-bottom">Internships</h4>
+        <h4 class="border-bottom">Research Experienc</h4>
+      </div>
+      <div class="col-md-10">
+        {% for section in site.data.cv.research %}
+          <p class="fw-bold">{{ section.title }}</br>
+          <small class="text-muted">{{ section.duration }}</small>
+          </p>
+        <p>{{ section.description }}<br></p>
+        {% endfor %}
+      </div>
+    </div>
+    
+    <!--- 3-2. Industry Experience --->
+    <div class="row g-5 mb-5">
+      <div class="col-md-2">
+        <h4 class="border-bottom">Industry Experience</h4>
       </div>
       <div class="col-md-10">
         {% for section in site.data.cv.internship %}
@@ -39,10 +70,10 @@ layout: default
       </div>
     </div>
     
-    <!--- 4. Honors --->
+    <!--- 4. Honors & Awards --->
     <div class="row g-5 mb-5">
       <div class="col-md-2">
-        <h4 class="border-bottom">Honors</h4>
+        <h4 class="border-bottom">Honors & Awards</h4>
       </div>
       <div class="col-md-10">
         {% for section in site.data.cv.honors %}
@@ -84,7 +115,7 @@ layout: default
       </div>
     </div>
 --->
-    <!--- 8. Other Experience --->
+    <!--- 8. Other Experience
     <div class="row g-5 mb-5">
       <div class="col-md-2">
         <h4 class="border-bottom">Other Experiences</h4>
@@ -98,7 +129,8 @@ layout: default
         {% endfor %}
       </div>
     </div>
-
+ --->
+    
     <!--- 9. Talks and Conferences 
     <div class="row g-5 mb-5">
       <div class="col-md-2">
@@ -159,21 +191,7 @@ layout: default
         {% endfor %}
       </div>
     </div>
-    
-        <!--- 1. Contact/Address --->
-    <div class="row g-5 mb-5">
-      <div class="col-md-2">
-        <h4 class="border-bottom">Address</h4>
-      </div>
-      <div class="col-md-10">
-        {% for section in site.data.cv.address %}
-          <p class="fw-bold">{{ section.title }}</br>
-          <small class="text-muted">{{ section.duration }}</small>
-          </p>
-          <p>{{ section.description }}<br></p>
-        {% endfor %}
-      </div>
-    </div>
+  
 
     
   </div>
