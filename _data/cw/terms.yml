@@ -1,18 +1,18 @@
-- id: "planned"
-  title: "Planned Coursework"
-  description: "Planned courses and research directions, subject to course availability and academic approval."
+#- id: "planned"
+#  title: "Planned Coursework"
+#  description: "Planned courses and research directions, subject to course availability and academic approval."
 
-- id: "2027-2"
-  title: "Fall 2027 <small>(Planned)</small>"
+#- id: "2027-2"
+#  title: "Fall 2027 <small>(Planned)</small>"
 
-- id: "2027-1A"
-  title: "Summer 2027 <small>(Planned / Study Abroad or Research)</small>"
+#- id: "2027-1A"
+#  title: "Summer 2027 <small>(Planned / Study Abroad or Research)</small>"
 
-- id: "2027-1"
-  title: "Spring 2027 <small>(Planned / Exchange or KAIST)</small>"
+#- id: "2027-1"
+#  title: "Spring 2027 <small>(Planned / Exchange or KAIST)</small>"
 
 - id: "2026-2"
-  title: "Fall 2026 <small>(Planned)</small>"
+  title: "Fall 2026"
 
 - id: "2026-1A"
   title: "Summer 2026"
