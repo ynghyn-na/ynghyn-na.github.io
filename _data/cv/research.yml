@@ -1,11 +1,11 @@
 # research.yml
-- title: 'Independent Research Project: Pond Water-Quality Sensing Autonomous Surface Vehicle'
+- title: "Independent Research Project: Pond Water-Quality Sensing Autonomous Surface Vehicle"
   duration: '(Sep 2025–Present)'
   advisor: 'Advised by Prof. Jemin Hwangbo, KAIST'
   mentor: 'Mentored by Kyungmin Nam'
-#  image: ''
-#  link: ''
-#  report: ''
+#  image: ""
+#  link: ""
+#  report: ""
   description: |
     <ul style="font-size: 0.9em;">
       <li>Developing an autonomous surface vehicle for real-time pond water-quality monitoring.</li>
@@ -14,12 +14,12 @@
     </ul>
 
 
-- title: 'Independent Research Project: KAIST × Nupjuki Hwatu Card Design'
+- title: "Independent Research Project: KAIST × Nupjuki Hwatu Card Design"
   duration: '(Summer 2026–Present)'
   advisor: 'Advised by Prof. Hyun-Jung Suk, KAIST'
-#  image: ''
-  link: 'https://docs.google.com/presentation/d/1Pn3nRnMufZv2zwCwM2oNbIEf_KMZT89vgQZNC_FUtOI/edit?usp=sharing'
-#  report: ''
+#  image: ""
+  link: "https://docs.google.com/presentation/d/1Pn3nRnMufZv2zwCwM2oNbIEf_KMZT89vgQZNC_FUtOI/view"
+#  report: ""
   description: |
     <ul style="font-size: 0.9em;">
       <li>Developing a functional Korean hwatu card set that integrates traditional hwatu game structure with KAIST campus culture and the Nupjuki character.</li>
