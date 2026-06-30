@@ -2,260 +2,260 @@
 # Planned Coursework
 # =====================================================================
 
-#- title: "EE Electives: Digital Systems / Computer Architecture / Embedded Systems"
-#  num: 9001
-#  grade: "<strong>Planned</strong>"
-#  credits: "6–9"
-#  professor: "TBA"
-#  field: "smart_hardware"
-#  topic: "Embedded Systems"
-#  term: "planned"
-#  textbook: "TBA"
-#  note: "Planned as preparation for human-centered smart hardware systems and physical computing."
+# - title: "EE Electives: Digital Systems / Computer Architecture / Embedded Systems"
+#   num: 9001
+#   # grade: "<strong>Planned</strong>"
+#   credits: "6–9"
+#   professor: "TBA"
+#   field: "smart_hardware"
+#   topic: "Embedded Systems"
+#   term: "planned"
+#   textbook: "TBA"
+#   note: "Planned as preparation for human-centered smart hardware systems and physical computing."
 
-#- title: "EE Electives: Sensors / Robotics / Biomedical Instrumentation"
-#  num: 9002
-#  grade: "<strong>Planned</strong>"
-#  credits: "6–9"
-#  professor: "TBA"
-#  field: "smart_hardware"
-#  topic: "Sensing Systems"
-#  term: "planned"
-#  textbook: "TBA"
-#  note: "Potential KAIST or exchange coursework to support wearable, sensing, and smart hardware research."
+# - title: "EE Electives: Sensors / Robotics / Biomedical Instrumentation"
+#   num: 9002
+#   # grade: "<strong>Planned</strong>"
+#   credits: "6–9"
+#   professor: "TBA"
+#   field: "smart_hardware"
+#   topic: "Sensing Systems"
+#   term: "planned"
+#   textbook: "TBA"
+#   note: "Potential KAIST or exchange coursework to support wearable, sensing, and smart hardware research."
 
-#- title: "Research Project / URP / Graduation Research"
-#  num: 9003
-#  grade: "<strong>Planned</strong>"
-#  credits: "3"
-#  professor: "TBA"
-#  field: "research"
-#  topic: "Undergraduate Research"
-#  term: "planned"
-#  textbook: "TBA"
-#  note: "Planned research track connected to smart hardware, sensing systems, or design-oriented engineering research."
+# - title: "Research Project / URP / Graduation Research"
+#   num: 9003
+#   # grade: "<strong>Planned</strong>"
+#   credits: "3"
+#   professor: "TBA"
+#   field: "research"
+#   topic: "Undergraduate Research"
+#   term: "planned"
+#   textbook: "TBA"
+#   note: "Planned research track connected to smart hardware, sensing systems, or design-oriented engineering research."
 
 # =====================================================================
 # Fall 2027 - Planned
 # =====================================================================
 
-#- title: "EE 40005: Electronic Design Lab"
-#  num: 40005
-#  grade: "<strong>Planned</strong>"
-#  credits: 3
-#  professor: "TBA"
-#  field: "ee_core"
-#  topic: "EE Design"
-#  term: "2027-2"
-#  textbook: "TBA"
-#  note: "Required EE design course, planned subject to academic schedule."
+# - title: "EE 40005: Electronic Design Lab"
+#   num: 40005
+#   # grade: "<strong>Planned</strong>"
+#   credits: 3
+#   professor: "TBA"
+#   field: "ee_core"
+#   topic: "EE Design"
+#   term: "2027-2"
+#   textbook: "TBA"
+#   note: "Required EE design course, planned subject to academic schedule."
 
-#- title: "Graduation Research / URP-Connected Research"
-#  num: 49998
-#  grade: "<strong>Planned</strong>"
-#  credits: 3
-#  professor: "TBA"
-#  field: "research"
-#  topic: "Research"
-#  term: "2027-2"
-#  textbook: "TBA"
-#  note: "Planned to be connected with a research project or URP, subject to department approval."
+# - title: "Graduation Research / URP-Connected Research"
+#   num: 49998
+#   # grade: "<strong>Planned</strong>"
+#   credits: 3
+#   professor: "TBA"
+#   field: "research"
+#   topic: "Research"
+#   term: "2027-2"
+#   textbook: "TBA"
+#   note: "Planned to be connected with a research project or URP, subject to department approval."
 
 # =====================================================================
 # Summer 2027 - Planned
 # =====================================================================
 
-#- title: "Summer Research / Study Abroad Research Connection"
-#  num: 9100
-#  grade: "<strong>Planned</strong>"
-#  credits: ""
-#  professor: "TBA"
-#  field: "research"
-#  topic: "Research"
-#  term: "2027-1A"
-#  textbook: "TBA"
-#  note: "Planned as a research, internship, or project-development period if studying abroad."
+# - title: "Summer Research / Study Abroad Research Connection"
+#   num: 9100
+#   # grade: "<strong>Planned</strong>"
+#   credits: ""
+#   professor: "TBA"
+#   field: "research"
+#   topic: "Research"
+#   term: "2027-1A"
+#   textbook: "TBA"
+#   note: "Planned as a research, internship, or project-development period if studying abroad."
 
 # =====================================================================
 # Spring 2027 - Planned
 # =====================================================================
 
-#- title: "Exchange ECE Coursework or KAIST EE Core Coursework"
-#  num: 9101
-#  grade: "<strong>Planned</strong>"
-#  credits: "6–9"
-#  professor: "TBA"
-#  field: "ee_core"
-#  topic: "Electrical Engineering"
-#  term: "2027-1"
-#  textbook: "TBA"
-#  note: "If studying abroad, planned courses will be mapped to KAIST EE electives before departure."
+# - title: "Exchange ECE Coursework or KAIST EE Core Coursework"
+#   num: 9101
+#   # grade: "<strong>Planned</strong>"
+#   credits: "6–9"
+#   professor: "TBA"
+#   field: "ee_core"
+#   topic: "Electrical Engineering"
+#   term: "2027-1"
+#   textbook: "TBA"
+#   note: "If studying abroad, planned courses will be mapped to KAIST EE electives before departure."
 
-#- title: "EE 30005: Electronic Design and Lab"
-#  num: 30005
-#  grade: "<strong>Planned</strong>"
-#  credits: 3
-#  professor: "TBA"
-#  field: "ee_core"
-#  topic: "EE Design"
-#  term: "2027-1"
-#  textbook: "TBA"
-#  note: "Planned if staying at KAIST; timing may change depending on exchange schedule."
+# - title: "EE 30005: Electronic Design and Lab"
+#   num: 30005
+#   # grade: "<strong>Planned</strong>"
+#   credits: 3
+#   professor: "TBA"
+#   field: "ee_core"
+#   topic: "EE Design"
+#   term: "2027-1"
+#   textbook: "TBA"
+#   note: "Planned if staying at KAIST; timing may change depending on exchange schedule."
 
 # =====================================================================
 # Fall 2026 - Planned
 # =====================================================================
 
-- title: "Advanced Chemistry or General Chemistry"
-  num: 10001
-  grade: "<strong>Planned</strong>"
-  credits: 3
-  professor: "TBA"
-  field: "other_basic"
-  topic: "Chemistry"
-  term: "2026-2"
-  textbook: "TBA"
-  note: "Planned to satisfy the remaining chemistry requirement."
+ - title: "Advanced Chemistry or General Chemistry"
+   num: 10001
+   # grade: "<strong>Planned</strong>"
+   credits: 3
+   professor: "TBA"
+   field: "other_basic"
+   topic: "Chemistry"
+   term: "2026-2"
+   textbook: "TBA"
+   note: "Planned to satisfy the remaining chemistry requirement."
 
-#- title: "Electromagnetics or Probability and Introductory Random Processes"
-#  num: 20010
-#  grade: "<strong>Planned</strong>"
-#  credits: 3
-#  professor: "TBA"
-#  field: "ee_core"
-#  topic: "EE Foundation"
-#  term: "2026-2"
-#  textbook: "TBA"
-#  note: "Planned EE foundation course; final choice depends on course load and grading risk."
+# - title: "Electromagnetics or Probability and Introductory Random Processes"
+#   num: 20010
+#   # grade: "<strong>Planned</strong>"
+#   credits: 3
+#   professor: "TBA"
+#   field: "ee_core"
+#   topic: "EE Foundation"
+#   term: "2026-2"
+#   textbook: "TBA"
+#   note: "Planned EE foundation course; final choice depends on course load and grading risk."
 
-#- title: "Free-Design / Sensing / Product-Oriented Elective"
-#  num: 30000
-#  grade: "<strong>Planned</strong>"
-#  credits: 3
-#  professor: "TBA"
-#  field: "design_build"
-#  topic: "Project-Based Learning"
-#  term: "2026-2"
-#  textbook: "TBA"
-#  note: "Candidate courses include sensing, patent/business, design, or project-based engineering courses."
+# - title: "Free-Design / Sensing / Product-Oriented Elective"
+#   num: 30000
+#   # grade: "<strong>Planned</strong>"
+#   credits: 3
+#   professor: "TBA"
+#   field: "design_build"
+#   topic: "Project-Based Learning"
+#   term: "2026-2"
+#   textbook: "TBA"
+#   note: "Candidate courses include sensing, patent/business, design, or project-based engineering courses."
 
-- title: "MyEE 2 / EE Career Design II"
-  num: 10002
-  grade: "<strong>Planned</strong>"
-  credits: 1
-  professor: "TBA"
-  field: "other_basic"
-  topic: "Career Design"
-  term: "2026-2"
-  textbook: "TBA"
-  note: "Planned for EE career exploration and research direction refinement."
+ - title: "MyEE 2 / EE Career Design II"
+   num: 10002
+   # grade: "<strong>Planned</strong>"
+   credits: 1
+   professor: "TBA"
+   field: "other_basic"
+   topic: "Career Design"
+   term: "2026-2"
+   textbook: "TBA"
+   note: "Planned for EE career exploration and research direction refinement."
 
 # =====================================================================
 # Summer 2026
 # =====================================================================
 
-- title: "Understanding Asian Art"
-  num: 20000
-  grade: "<strong>In Progress</strong>"
+- title: "ID 91100: Individual Research (KAIST × Nupjuki Hwatu Card Design)"
+  num: 91100
+  # grade: "<strong>In Progress</strong>"
+  credits: 1
+  professor: "Prof. Hyun-Jung Suk"
+  field: "research"
+  topic: "Design Research"
+  term: "2026-1A"
+  textbook: "TBA"
+  note: "Independent research project on a functional Korean hwatu card set integrating traditional game structure with KAIST campus culture and the Nupjuki character."
+
+- title: "HSS 20075: Arts of Asia"
+  num: 20075
+  # grade: "<strong>In Progress</strong>"
   credits: 3
-  professor: "TBA"
+  professor: "Prof. Taylor Pak"
   field: "other_basic"
   topic: "Humanities"
   term: "2026-1A"
   textbook: "TBA"
-  note: "Summer humanities coursework."
+  note: ""
 
-- title: "CS 101: Programming Basics"
-  num: 101
-  grade: "<strong>Credit Examination Planned</strong>"
-  credits: 3
-  professor: "TBA"
-  field: "smart_hardware"
-  topic: "Programming"
-  term: "2026-1A"
-  textbook: "TBA"
-  note: "Planned through KAIST credit examination."
-
-- title: "ID 91100: Individual Research (KAIST × Nupjuki Hwatu Card Design)"
-  num: 91100
-  grade: "<strong>In Progress</strong>"
-  credits: 1
-  professor: "Prof. Hyeon-Jung Suk"
-  field: "research"
-  topic: "Design Research"
-  term: "2026-1A"
-  textbook: "Korean hwatu card structure, KAIST campus visual references, and Nupjuki character design references"
-  note: "Independent research project on a functional Korean hwatu card set integrating traditional game structure with KAIST campus culture and the Nupjuki character."
+ - title: "CS 101: Programming Basics"
+   num: 101
+   # grade: "<strong>Credit Examination Planned</strong>"
+   credits: 3
+   professor: "TBA"
+   field: "smart_hardware"
+   topic: "Programming"
+   term: "2026-1A"
+   textbook: "TBA"
+   note: "Planned through KAIST credit examination."
 
 # =====================================================================
 # Spring 2026
 # =====================================================================
 
-- title: "Introduction to Linear Algebra"
-  num: 20002
-  grade: "<strong>Completed</strong>"
-  credits: 3
-  professor: "TBA"
-  field: "other_basic"
-  topic: "Linear Algebra"
-  term: "2026-1"
-  textbook: "TBA"
-  note: ""
-
-- title: "Basic Mechanical Practice"
+- title: "ME 20000: Basic Mechanical Practice"
   num: 20000
-  grade: "<strong>Completed</strong>"
+  # grade: "<strong>A+</strong>"
   credits: 3
-  professor: "TBA"
+  professor: "Prof. Jeong Whan Yoon"
   field: "design_build"
   topic: "Mechanical Practice"
   term: "2026-1"
   textbook: "TBA"
   note: "Hands-on fabrication and mechanical practice course."
 
-- title: "Bioelectronic Circuits"
-  num: 30000
-  grade: "<strong>Completed</strong>"
+- title: "BiS 35004: Analog Microelectronic Circuits"
+  num: 35004
+  # grade: "<strong>A-</strong>"
   credits: 3
-  professor: "TBA"
+  professor: "Prof. Yoonkey Nam / Prof. Chul Kim"
   field: "smart_hardware"
   topic: "Bioelectronics"
   term: "2026-1"
   textbook: "TBA"
-  note: "Coursework related to bioelectronics, sensing, and health-related hardware."
+  note: "Coursework related to bioelectronics, circuits, sensing, and health-related hardware."
 
-- title: "Environmental Governance"
-  num: 30000
-  grade: "<strong>Completed</strong>"
+- title: "MAS 10009: Introduction to Linear Algebra"
+  num: 10009
+  # grade: "<strong>A-</strong>"
   credits: 3
-  professor: "TBA"
+  professor: "Prof. Jinhyun Park"
+  field: "other_basic"
+  topic: "Linear Algebra"
+  term: "2026-1"
+  textbook: "TBA"
+  note: ""
+
+- title: "HSS 10010: Intermediate English Speaking & Listening"
+  num: 10010
+  # grade: "<strong>A+</strong>"
+  credits: 2
+  professor: "Prof. John Looney"
+  field: "other_basic"
+  topic: "Communication"
+  term: "2026-1"
+  textbook: "TBA"
+  note: ""
+
+- title: "HSS 30027: Environmental Governance"
+  num: 30027
+  # grade: "<strong>A+</strong>"
+  credits: 3
+  professor: "Prof. Hana Kim"
   field: "other_basic"
   topic: "Society and Policy"
   term: "2026-1"
   textbook: "TBA"
   note: ""
 
-- title: "EE Career Design I"
-  num: 10001
-  grade: "<strong>Completed</strong>"
+- title: "EE 20015: EE Career Development I"
+  num: 20015
+  # grade: "<strong>A+</strong>"
   credits: 1
-  professor: "TBA"
+  professor: "Prof. Bongjin Kim"
   field: "other_basic"
   topic: "Career Design"
   term: "2026-1"
   textbook: "TBA"
   note: "Career exploration course in Electrical Engineering."
-
-- title: "Intermediate English Speaking & Listening"
-  num: 10010
-  grade: "<strong>Completed</strong>"
-  credits: 2
-  professor: "TBA"
-  field: "other_basic"
-  topic: "Communication"
-  term: "2026-1"
-  textbook: "TBA"
-  note: ""
 
 # =====================================================================
 # Fall 2025
@@ -263,7 +263,7 @@
 
 - title: "EE 20002: Signals and Systems"
   num: 20002
-  grade: "<strong>Completed</strong>"
+  # grade: "<strong>B0</strong>"
   credits: 3
   professor: "TBA"
   field: "ee_core"
@@ -274,9 +274,9 @@
 
 - title: "MAS 10002: Calculus II"
   num: 10002
-  grade: "<strong>Completed</strong>"
+  # grade: "<strong>B0</strong>"
   credits: 3
-  professor: "TBA"
+  professor: "Prof. Minkyu Lim"
   field: "other_basic"
   topic: "Calculus"
   term: "2025-2"
@@ -285,7 +285,7 @@
 
 - title: "MAS 20001: Differential Equations and Applications"
   num: 20001
-  grade: "<strong>Completed</strong>"
+  # grade: "<strong>B-</strong>"
   credits: 3
   professor: "TBA"
   field: "other_basic"
@@ -294,9 +294,9 @@
   textbook: "TBA"
   note: ""
 
-- title: "Experiment-Oriented General Physics II"
+- title: "PH 10072: Experiment-Oriented General Physics II"
   num: 10072
-  grade: "<strong>Completed</strong>"
+  # grade: "<strong>A+</strong>"
   credits: 4
   professor: "TBA"
   field: "other_basic"
@@ -305,9 +305,9 @@
   textbook: "TBA"
   note: ""
 
-- title: "Startup 101"
+- title: "HSS 20117: Startup 101"
   num: 20117
-  grade: "<strong>Completed</strong>"
+  # grade: "<strong>A0</strong>"
   credits: 3
   professor: "TBA"
   field: "design_build"
@@ -316,9 +316,9 @@
   textbook: "TBA"
   note: ""
 
-- title: "Intermediate English Reading & Writing"
+- title: "HSS 10011: Intermediate English Reading & Writing"
   num: 10011
-  grade: "<strong>Completed</strong>"
+  # grade: "<strong>A0</strong>"
   credits: 2
   professor: "TBA"
   field: "other_basic"
@@ -327,9 +327,9 @@
   textbook: "TBA"
   note: ""
 
-- title: "Freshman Seminar 2: Chemical and Biomolecular Engineering"
+- title: "HSS 10090: Freshman Seminar 2 (Chemical and Biomolecular Engineering)"
   num: 10090
-  grade: "<strong>Completed</strong>"
+  # grade: "<strong>S</strong>"
   credits: 1
   professor: "TBA"
   field: "other_basic"
@@ -338,13 +338,35 @@
   textbook: "TBA"
   note: ""
 
-- title: "Freshman Seminar 2: Aerospace Engineering"
+- title: "HSS 10090: Freshman Seminar 2 (Aerospace Engineering)"
   num: 10090
-  grade: "<strong>Completed</strong>"
+  # grade: "<strong>S</strong>"
   credits: 1
   professor: "TBA"
   field: "other_basic"
   topic: "Freshman Seminar"
+  term: "2025-2"
+  textbook: "TBA"
+  note: ""
+
+- title: "HSS 10099: Exciting College Life"
+  num: 10099
+  # grade: "<strong>S</strong>"
+  credits: 0
+  professor: "TBA"
+  field: "other_basic"
+  topic: "Campus Life"
+  term: "2025-2"
+  textbook: "TBA"
+  note: ""
+
+- title: "HSS 10073: Humanity/Leadership II (Young Leaders Thursday Lecture)"
+  num: 10073
+  # grade: "<strong>S</strong>"
+  credits: 0
+  professor: "TBA"
+  field: "other_basic"
+  topic: "Leadership"
   term: "2025-2"
   textbook: "TBA"
   note: ""
@@ -355,7 +377,7 @@
 
 - title: "ENGIN 170A: Technology Leadership"
   num: 170
-  grade: "<strong>Completed</strong>"
+  # grade: "<strong>P</strong>"
   credits: 2
   professor: "TBA"
   field: "design_build"
@@ -366,7 +388,7 @@
 
 - title: "DESINV 22: Prototyping & Fabrication"
   num: 22
-  grade: "<strong>Completed</strong>"
+  # grade: "<strong>A</strong>"
   credits: 3
   professor: "TBA"
   field: "design_build"
@@ -381,7 +403,7 @@
 
 - title: "EE 20001: Circuit Theory"
   num: 20001
-  grade: "<strong>Completed</strong>"
+  # grade: "<strong>B-</strong>"
   credits: 3
   professor: "Prof. Bongjin Kim"
   field: "ee_core"
@@ -392,9 +414,9 @@
 
 - title: "MAS 10001: Calculus I"
   num: 10001
-  grade: "<strong>Completed</strong>"
+  # grade: "<strong>C0</strong>"
   credits: 3
-  professor: "TBA"
+  professor: "Prof. Minkyu Lim"
   field: "other_basic"
   topic: "Calculus"
   term: "2025-1"
@@ -403,9 +425,9 @@
 
 - title: "PH 10041: General Physics I"
   num: 10041
-  grade: "<strong>Completed</strong>"
+  # grade: "<strong>A-</strong>"
   credits: 3
-  professor: "TBA"
+  professor: "Prof. Sungwoo Hong"
   field: "other_basic"
   topic: "Physics"
   term: "2025-1"
@@ -414,9 +436,9 @@
 
 - title: "BS 10020: General Biology"
   num: 10020
-  grade: "<strong>Completed</strong>"
+  # grade: "<strong>A+</strong>"
   credits: 3
-  professor: "TBA"
+  professor: "Prof. Jinju Han"
   field: "smart_hardware"
   topic: "Biology"
   term: "2025-1"
@@ -425,18 +447,18 @@
 
 - title: "CH 10002: General Chemistry Experiment I"
   num: 10002
-  grade: "<strong>Completed</strong>"
+  # grade: "<strong>A+</strong>"
   credits: 1
-  professor: "TBA"
+  professor: "Prof. Sangkyu Kim"
   field: "other_basic"
   topic: "Chemistry"
   term: "2025-1"
   textbook: "TBA"
   note: ""
 
-- title: "Freshman Seminar 1: Mechanical Engineering"
+- title: "HSS 10089: Freshman Seminar 1 (Mechanical Engineering)"
   num: 10089
-  grade: "<strong>Completed</strong>"
+  # grade: "<strong>S</strong>"
   credits: 1
   professor: "TBA"
   field: "design_build"
@@ -445,9 +467,9 @@
   textbook: "TBA"
   note: ""
 
-- title: "Freshman Seminar 1: School of Electrical Engineering"
+- title: "HSS 10089: Freshman Seminar 1 (School of Electrical Engineering)"
   num: 10089
-  grade: "<strong>Completed</strong>"
+  # grade: "<strong>S</strong>"
   credits: 1
   professor: "TBA"
   field: "ee_core"
@@ -456,20 +478,20 @@
   textbook: "TBA"
   note: ""
 
-- title: "Humanity/Leadership III: Winning Hearts and Minds in Personal and Professional Conversations"
+- title: "HSS 10074: Humanity/Leadership III (Winning Hearts and Minds in Personal and Professional Conversations)"
   num: 10074
-  grade: "<strong>Completed</strong>"
+  # grade: "<strong>S</strong>"
   credits: 0
-  professor: "TBA"
+  professor: "Staff"
   field: "other_basic"
   topic: "Leadership"
   term: "2025-1"
   textbook: "TBA"
   note: ""
 
-- title: "Happy College Life"
+- title: "HSS 10195: Happy College Life"
   num: 10195
-  grade: "<strong>Completed</strong>"
+  # grade: "<strong>S</strong>"
   credits: 0
   professor: "TBA"
   field: "other_basic"
