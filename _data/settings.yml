@@ -2,6 +2,9 @@ menu:
 - {name: 'CURRICULUM VITAE', url: '/cv'}
 - {name: 'COURSEWORK', url: '/coursework-field'}
 
+acceptances:
+- {name: 'Acceptances', url: '/acceptances'}
+
 contact:
 - {name: 'CONTACT', url: '/contact'}
 
@@ -15,7 +18,3 @@ contacts:
 #성과와 문서화가 안된 것들
 projects:
 - {name: 'Projects', url: '/projects'}
-
-#문서화되고 지도받은 오랜기간 한것
-research:
-- {name: 'Research', url: '/research'}
