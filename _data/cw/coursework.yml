@@ -106,7 +106,7 @@
 # Fall 2026 - Planned
 # =====================================================================
 
- - title: "Advanced Chemistry or General Chemistry"
+- title: "Advanced Chemistry or General Chemistry"
    num: 10001
    # grade: "<strong>Planned</strong>"
    credits: 3
@@ -139,7 +139,7 @@
 #   textbook: "TBA"
 #   note: "Candidate courses include sensing, patent/business, design, or project-based engineering courses."
 
- - title: "MyEE 2 / EE Career Design II"
+- title: "MyEE 2 / EE Career Design II"
    num: 10002
    # grade: "<strong>Planned</strong>"
    credits: 1
@@ -153,7 +153,6 @@
 # =====================================================================
 # Summer 2026
 # =====================================================================
-
 - title: "ID 91100: Individual Research (KAIST × Nupjuki Hwatu Card Design)"
   num: 91100
   # grade: "<strong>In Progress</strong>"
@@ -176,7 +175,7 @@
   textbook: "TBA"
   note: ""
 
- - title: "CS 101: Programming Basics"
+- title: "CS 101: Programming Basics"
    num: 101
    # grade: "<strong>Credit Examination Planned</strong>"
    credits: 3
