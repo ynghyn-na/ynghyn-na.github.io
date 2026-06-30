@@ -1,0 +1,7 @@
+- title: 'Selected Project'
+  description: '<ul style="font-size: 0.9em;">
+    <li><b>EMG Fitness Assist Device</b> — Exercise assistance and feedback by visualizing electromyography (EMG) signals.</li>
+    <li><b>Silent Electrical Muscle Stimulation Alarm</b> — A personal wake-up wearable that uses electrical muscle stimulation and does not disturb roommates.</li>
+    <li><b>Don’t Sleep!</b> — Vision-based AI for detecting drowsiness and attention drift (YOLOv5).</li>
+    <li><b>Water-Cooled Garment</b> — A body-cooling garment using Peltier modules.</li>
+  </ul>'
