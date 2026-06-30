@@ -1,7 +1,7 @@
 - title: 'Hardware Engineer Intern, Marinemate'
   duration: '(Apr 2025–Jun 2025)'
-  image: ''
-  link: ''
+#  image: ""
+#  link: ""
   description: |
     <ul style="font-size: 0.9em;">
       <li>Built and packaged prototype sensor modules for AI Marina, a predictive-maintenance solution for ship engine rooms.</li>
