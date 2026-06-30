@@ -1,27 +1,19 @@
 - id: "ee_core"
   title: "Electrical Engineering Core"
-  description: "Circuits, signals, electronics, electromagnetics, and EE design foundations."
+  description: "Core coursework in circuits, signals, electronics, electromagnetics, and EE design foundations."
 
-- id: "embedded"
-  title: "Computing, Embedded Systems, and Physical Computing"
-  description: "Programming, digital systems, computer architecture, embedded hardware, and physical computing."
+- id: "smart_hardware"
+  title: "Smart Hardware, Sensing, and Physical Computing"
+  description: "Coursework related to embedded systems, sensing, bioelectronics, wearable devices, robotics, and physical computing."
 
-- id: "sensing_bio"
-  title: "Bioelectronics, Sensing, and Healthcare Systems"
-  description: "Bioelectronic circuits, sensing systems, wearable devices, and health-related hardware."
-
-- id: "design"
+- id: "design_build"
   title: "Design, Prototyping, and Entrepreneurship"
-  description: "Engineering design, prototyping, fabrication, startup, and product-oriented coursework."
+  description: "Project-oriented coursework in engineering design, prototyping, fabrication, startup, and product development."
 
-- id: "math_sci"
-  title: "Mathematical and Scientific Foundations"
-  description: "Mathematics, physics, chemistry, biology, and scientific foundations for engineering."
-
-- id: "hss"
-  title: "Humanities, Leadership, and Communication"
-  description: "Communication, leadership, humanities, and social context for engineering."
-
-- id: "research_planned"
+- id: "research"
   title: "Research and Independent Study"
-  description: "Planned research, URP, graduation research, and independent project-based academic work."
+  description: "Independent research, URP, graduation research, and project-based academic work."
+
+- id: "other_basic"
+  title: "Other / Basic Coursework"
+  description: "Mathematics, basic sciences, humanities, communication, leadership, and general education coursework."
