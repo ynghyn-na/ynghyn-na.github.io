@@ -5,3 +5,49 @@
     <li><b>Don’t Sleep!</b> — Vision-based AI for detecting drowsiness and attention drift (YOLOv5).</li>
     <li><b>Water-Cooled Garment</b> — A body-cooling garment using Peltier modules.</li>
   </ul>'
+
+
+- title: 'Water-Cooled Garment'
+  duration: '2025'
+  type: 'Wearable Hardware'
+  image: ''
+  link: ''
+  report: ''
+  description: |
+    Developed a wearable body-cooling system using Peltier modules and water circulation. Awarded at the KAIST Idea Factory Prototyping Contest and KAIST Color Your 2025 Project.
+
+- title: 'Silent Electrical Muscle Stimulation Alarm'
+  duration: 'May 2025'
+  type: 'Wearable Assistive Device'
+  image: ''
+  link: ''
+  report: ''
+  description: |
+    Built a personal wake-up wearable that uses electrical muscle stimulation to alert the user without disturbing roommates.
+
+- title: 'EMG Fitness Assist Device'
+  duration: '2023'
+  type: 'Bio-signal / Fitness Device'
+  image: ''
+  link: ''
+  report: ''
+  description: |
+    Built an exercise-assist prototype that visualizes electromyography signals for fitness feedback.
+
+- title: 'Shortcut-Key & Joystick Auxiliary Keyboard'
+  duration: ''
+  type: 'Input Device'
+  image: ''
+  link: ''
+  report: ''
+  description: |
+    Designed a custom auxiliary keyboard combining shortcut keys and joystick-based control for faster computer interaction.
+
+- title: "Don't Sleep!"
+  duration: ''
+  type: 'Sensing / Attention Support'
+  image: ''
+  link: ''
+  report: ''
+  description: |
+    Developed wearable and vision-based prototypes for detecting drowsiness and attention drift using IMU sensors and computer vision.
