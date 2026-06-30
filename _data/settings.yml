@@ -1,9 +1,8 @@
 menu:
 - {name: 'CURRICULUM VITAE', url: '/cv'}
 - {name: 'COURSEWORK', url: '/coursework-field'}
-
-acceptances:
-- {name: 'Acceptances', url: '/acceptances'}
+#- {name: 'Projects', url: '/projects'}
+#- {name: 'Acceptances', url: '/acceptances'}
 
 contact:
 - {name: 'CONTACT', url: '/contact'}
@@ -11,10 +10,6 @@ contact:
 social:
 - {icon: 'envelope', link: 'mailto:epoch1026 [at] kaist [dot] ac [dot] kr'}
 - {icon: 'orcid', link: 'https://orcid.org/0009-0004-3464-6499'}
-
-#성과와 문서화가 안된 것들
-projects:
-- {name: 'Projects', url: '/projects'}
 
 contacts:
 - {name: 'YeongHyeon NA', title: 'Undergraduate Student (Electrical Engineering)', school: 'Korea Advanced Institute of Science and Technology', number: 'Class of 2029', email: 'epoch1026 [at] kaist [dot] ac [dot] kr', linkedin: 'ynghyn-na', orcid: '0009-0004-3464-6499'}
