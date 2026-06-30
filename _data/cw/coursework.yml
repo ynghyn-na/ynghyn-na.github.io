@@ -1,201 +1,468 @@
-# Fall 2026
+# =====================================================================
+# Planned Coursework
+# =====================================================================
 
-- title: 'MAS 312: Modern Algebra II'
-  num: 312
-  grade: '<strong>(A–F)</strong>'
-  professor: 'Sanghoon Baek'
-  field: alg
-  topic: 'Algebra'
-  term: 2026-2
-  textbook: "Dummit and Foote's Abstract Algebra (ch. 8–14)"
-
-- title: 'MAS 411: Introduction to Algebraic Geometry'
-  num: 411
-  grade: '<strong>(A–F)</strong>'
-  professor: 'Jinhyung Park'
-  field: alg
-  topic: 'Algebra'
-  term: 2026-2
+- title: "EE Electives: Digital Systems / Computer Architecture / Embedded Systems"
+  num: 9001
+  grade: "<strong>Planned</strong>"
+  credits: "6–9"
+  professor: "TBA"
+  field: "embedded"
+  topic: "Embedded Systems"
+  term: "planned"
   textbook: "TBA"
+  note: "Planned as preparation for human-centered smart hardware systems and physical computing."
 
-- title: 'MAS 430: Combinatorial Topology'
-  num: 430
-  grade: '<strong>(A–F)</strong>'
-  professor: 'Woojin Kim'
-  field: geo
-  topic: 'Topology'
-  term: 2026-2
+- title: "EE Electives: Sensors / Robotics / Biomedical Instrumentation"
+  num: 9002
+  grade: "<strong>Planned</strong>"
+  credits: "6–9"
+  professor: "TBA"
+  field: "sensing_bio"
+  topic: "Sensing Systems"
+  term: "planned"
   textbook: "TBA"
+  note: "Potential KAIST or exchange coursework to support wearable, sensing, and smart hardware research."
 
-- title: 'MAS 491: Introduction to Contemporary Mathematics'
-  num: 491
-  grade: '<strong>(S/U)</strong>'
-  professor: '(Staff)'
-  field: other
-  topic: 'Other'
-  term: 2026-2
+- title: "Research Project / URP / Graduation Research"
+  num: 9003
+  grade: "<strong>Planned</strong>"
+  credits: "3"
+  professor: "TBA"
+  field: "research_planned"
+  topic: "Undergraduate Research"
+  term: "planned"
   textbook: "TBA"
+  note: "Planned research track connected to smart hardware, sensing systems, or design-oriented engineering research."
 
-- title: 'MAS 495: Individual Study (Algebraic Curves)'
-  num: 495
-  grade: '<strong>(S/U)</strong>'
-  professor: 'Jinhyun Park'
-  field: alg
-  topic: 'Algebra'
-  term: 2026-2
-  textbook: "Oguiso's Theory of Algebraic Curves (originally written in Japanese; Korean translation by Sung Rak Choi)"
+# =====================================================================
+# Fall 2027 - Planned
+# =====================================================================
 
-- title: 'MAS 513: Homological Algebra'
-  num: 513
-  grade: '<strong>(A–F)</strong>'
-  professor: 'Jinhyun Park'
-  field: alg
-  topic: 'Algebra'
-  term: 2026-2
+- title: "EE 40005: Electronic Design Lab"
+  num: 40005
+  grade: "<strong>Planned</strong>"
+  credits: 3
+  professor: "TBA"
+  field: "ee_core"
+  topic: "EE Design"
+  term: "2027-2"
   textbook: "TBA"
+  note: "Required EE design course, planned subject to academic schedule."
 
-- title: 'MAS 541: Complex Function Theory'
-  num: 541
-  grade: '<strong>(A–F)</strong>'
-  professor: 'Moon-Jin Kang'
-  field: anal
-  topic: 'Analysis'
-  term: 2026-2
+- title: "Graduation Research / URP-Connected Research"
+  num: 49998
+  grade: "<strong>Planned</strong>"
+  credits: 3
+  professor: "TBA"
+  field: "research_planned"
+  topic: "Research"
+  term: "2027-2"
   textbook: "TBA"
+  note: "Planned to be connected with a research project or URP, subject to department approval."
 
-# ========================================================================================================================================================================================================
+# =====================================================================
+# Summer 2027 - Planned
+# =====================================================================
 
-# Spring 2026
+- title: "Summer Research / Study Abroad Research Connection"
+  num: 9100
+  grade: "<strong>Planned</strong>"
+  credits: ""
+  professor: "TBA"
+  field: "research_planned"
+  topic: "Research"
+  term: "2027-1A"
+  textbook: "TBA"
+  note: "Planned as a research, internship, or project-development period if studying abroad."
 
-- title: 'MAS 311: Modern Algebra I'
-  num: 311
-  grade: '<strong>B0</strong>'
-  professor: 'Sanghoon Baek'
-  field: alg
-  topic: 'Algebra'
-  term: 2026-1
-  textbook: "Dummit and Foote's Abstract Algebra (ch. 1–7)"
+# =====================================================================
+# Spring 2027 - Planned
+# =====================================================================
 
-- title: 'MAS 331: Topology'
-  num: 331
-  grade: '<strong>C-</strong>'
-  professor: 'Hyungryul Baik'
-  field: geo
-  topic: 'Topology'
-  term: 2026-1
-  textbook: "Munkres' Topology (ch. 2–4, 9, 13)"
+- title: "Exchange ECE Coursework or KAIST EE Core Coursework"
+  num: 9101
+  grade: "<strong>Planned</strong>"
+  credits: "6–9"
+  professor: "TBA"
+  field: "ee_core"
+  topic: "Electrical Engineering"
+  term: "2027-1"
+  textbook: "TBA"
+  note: "If studying abroad, planned courses will be mapped to KAIST EE electives before departure."
 
-- title: 'MAS 583: Topics in Mathematics &lt;Advanced Discrete Geometry&gt;'
-  num: 583
-  grade: '<strong>A-</strong>'
-  professor: 'Andreas Holmsen'
-  field: disc
-  topic: 'Combinatorics'
-  term: 2026-1
-  textbook: "Ziegler's Lectures on Polytopes (ch. 0–8)"
+- title: "EE 30005: Electronic Design and Lab"
+  num: 30005
+  grade: "<strong>Planned</strong>"
+  credits: 3
+  professor: "TBA"
+  field: "ee_core"
+  topic: "EE Design"
+  term: "2027-1"
+  textbook: "TBA"
+  note: "Planned if staying at KAIST; timing may change depending on exchange schedule."
 
-# ========================================================================================================================================================================================================
+# =====================================================================
+# Fall 2026 - Planned
+# =====================================================================
 
-# Winter 2025
+- title: "Advanced Chemistry or General Chemistry"
+  num: 10001
+  grade: "<strong>Planned</strong>"
+  credits: 3
+  professor: "TBA"
+  field: "math_sci"
+  topic: "Chemistry"
+  term: "2026-2"
+  textbook: "TBA"
+  note: "Planned to satisfy the remaining chemistry requirement."
 
-- title: 'MAS 495: Individual Study (Elliptic PDEs)'
-  num: 495
-  grade: '<strong>S</strong>'
-  professor: 'Jiewon Park'
-  field: geo
-  topic: 'Geometry'
-  term: 2025-2A
-  textbook: "Han and Lin's Elliptic Partial Differential Equations (ch. 1–2)<br>Evans' Partial Differential Equations (ch. 5)"
+- title: "Electromagnetics or Probability and Introductory Random Processes"
+  num: 20010
+  grade: "<strong>Planned</strong>"
+  credits: 3
+  professor: "TBA"
+  field: "ee_core"
+  topic: "EE Foundation"
+  term: "2026-2"
+  textbook: "TBA"
+  note: "Planned EE foundation course; final choice depends on course load and grading risk."
 
-# ========================================================================================================================================================================================================
+- title: "Free-Design / Sensing / Product-Oriented Elective"
+  num: 30000
+  grade: "<strong>Planned</strong>"
+  credits: 3
+  professor: "TBA"
+  field: "design"
+  topic: "Project-Based Learning"
+  term: "2026-2"
+  textbook: "TBA"
+  note: "Candidate courses include sensing, patent/business, design, or project-based engineering courses."
 
-# Fall 2025
+- title: "MyEE 2 / EE Career Design II"
+  num: 10002
+  grade: "<strong>Planned</strong>"
+  credits: 1
+  professor: "TBA"
+  field: "hss"
+  topic: "Career Design"
+  term: "2026-2"
+  textbook: "TBA"
+  note: "Planned for EE career exploration and research direction refinement."
 
-- title: 'MAS 102: Calculus II'
-  num: 102
-  grade: '<strong>A+</strong>'
-  professor: 'Jiewon Park'
-  field: other
-  topic: 'Basic'
-  term: 2025-2
-  textbook: "Kim's 25 Lectures for Undergraduate Calculus II"
+# =====================================================================
+# Summer 2026
+# =====================================================================
 
-- title: 'MAS 212: Linear Algebra'
-  num: 212
-  grade: '<strong>B0</strong>'
-  professor: 'Andreas Holmsen'
-  field: alg
-  topic: 'Algebra'
-  term: 2025-2
-  textbook: "Hoffman and Kunze's Linear Algebra (ch. 1.1–8.2)"
+- title: "Understanding Asian Art"
+  num: 20000
+  grade: "<strong>In Progress</strong>"
+  credits: 3
+  professor: "TBA"
+  field: "hss"
+  topic: "Humanities"
+  term: "2026-1A"
+  textbook: "TBA"
+  note: "Summer humanities coursework."
 
-- title: 'MAS 242: Analysis II'
-  num: 242
-  grade: '<strong>P</strong>'
-  professor: 'Myeongjean Bae'
-  field: anal
-  topic: 'Analysis'
-  term: 2025-2
-  textbook: "Rudin's Principles of Mathematical Analysis (ch. 8–9)<br>Szilágyi, T. (1977). <i>Inverse function theorem - without assuming continuous differentaibility.</i>"
-
-- title: 'MAS 321: Introduction to Differential Geometry'
-  num: 321
-  grade: '<strong>P</strong>'
-  professor: 'Jiewon Park'
-  field: geo
-  topic: 'Geometry'
-  term: 2025-2
-  textbook: "do Carmo's Differential Geometry of Curves and Surfaces (ch. 1.1–4.5)"
-
-# ========================================================================================================================================================================================================
-
-# Summer 2025 - UC Berkeley
-
-- title: 'MATH 185: Introduction to Complex Analysis'
-  num: 341
-  grade: '<strong>P</strong>'
-  professor: 'Rui Wang'
-  field: anal
-  topic: 'Analysis'
-  term: 2025-1A
-  textbook: "Priestley's Introduction to Complex Analysis (ch. 1–20)<br>Stein and Shakarchi's Complex Analysis (reference)"
-
-# ========================================================================================================================================================================================================
-
-# Spring 2025
-
-- title: 'MAS 101: Calculus I'
+- title: "CS 101: Programming Basics"
   num: 101
-  grade: '<strong>A-</strong>'
-  professor: 'Andreas Holmsen'
-  field: other
-  topic: 'Basic'
-  term: 2025-1
-  textbook: "Kim's 25 Lectures for Undergraduate Calculus I"
+  grade: "<strong>Credit Examination Planned</strong>"
+  credits: 3
+  professor: "TBA"
+  field: "embedded"
+  topic: "Programming"
+  term: "2026-1A"
+  textbook: "TBA"
+  note: "Planned through KAIST credit examination."
 
-- title: 'MAS 109: Introduction to Linear Algebra'
-  num: 109
-  grade: '<strong>B+</strong>'
-  professor: 'Dongyoup Suh'
-  field: other
-  topic: 'Basic'
-  term: 2025-1
-  textbook: "Anton's Contemporary Linear Algebra (ch. 1.1–8.6)"
+# =====================================================================
+# Spring 2026
+# =====================================================================
 
-- title: 'MAS 210: Introduction to Number Theory'
-  num: 210
-  grade: '<strong>P</strong>'
-  professor: 'Wansu Kim'
-  field: alg
-  topic: 'Number Theory'
-  term: 2025-1
-  textbook: "Burton's Elementary Number Theory (ch. 1–9, 12–16)<br>Stein's Elementary Number Theory (ch. 2–3)"
+- title: "Introduction to Linear Algebra"
+  num: 20002
+  grade: "<strong>Completed</strong>"
+  credits: 3
+  professor: "TBA"
+  field: "math_sci"
+  topic: "Linear Algebra"
+  term: "2026-1"
+  textbook: "TBA"
+  note: ""
 
-- title: 'MAS 241: Analysis I'
-  num: 241
-  grade: '<strong>P</strong>'
-  professor: 'Myeongjean Bae'
-  field: anal
-  topic: 'Analysis'
-  term: 2025-1
-  textbook: "Rudin's Principles of Mathematical Analysis (ch. 1–7)"
+- title: "Basic Mechanical Practice"
+  num: 20000
+  grade: "<strong>Completed</strong>"
+  credits: 3
+  professor: "TBA"
+  field: "design"
+  topic: "Mechanical Practice"
+  term: "2026-1"
+  textbook: "TBA"
+  note: "Hands-on fabrication and mechanical practice course."
+
+- title: "Bioelectronic Circuits"
+  num: 30000
+  grade: "<strong>Completed</strong>"
+  credits: 3
+  professor: "TBA"
+  field: "sensing_bio"
+  topic: "Bioelectronics"
+  term: "2026-1"
+  textbook: "TBA"
+  note: "Coursework related to bioelectronics, sensing, and health-related hardware."
+
+- title: "Environmental Governance"
+  num: 30000
+  grade: "<strong>Completed</strong>"
+  credits: 3
+  professor: "TBA"
+  field: "hss"
+  topic: "Society and Policy"
+  term: "2026-1"
+  textbook: "TBA"
+  note: ""
+
+- title: "EE Career Design I"
+  num: 10001
+  grade: "<strong>Completed</strong>"
+  credits: 1
+  professor: "TBA"
+  field: "hss"
+  topic: "Career Design"
+  term: "2026-1"
+  textbook: "TBA"
+  note: "Career exploration course in Electrical Engineering."
+
+- title: "Intermediate English Speaking & Listening"
+  num: 10010
+  grade: "<strong>Completed</strong>"
+  credits: 2
+  professor: "TBA"
+  field: "hss"
+  topic: "Communication"
+  term: "2026-1"
+  textbook: "TBA"
+  note: ""
+
+# =====================================================================
+# Fall 2025
+# =====================================================================
+
+- title: "EE 20002: Signals and Systems"
+  num: 20002
+  grade: "<strong>Completed</strong>"
+  credits: 3
+  professor: "TBA"
+  field: "ee_core"
+  topic: "Signals and Systems"
+  term: "2025-2"
+  textbook: "TBA"
+  note: ""
+
+- title: "MAS 10002: Calculus II"
+  num: 10002
+  grade: "<strong>Completed</strong>"
+  credits: 3
+  professor: "TBA"
+  field: "math_sci"
+  topic: "Calculus"
+  term: "2025-2"
+  textbook: "TBA"
+  note: ""
+
+- title: "MAS 20001: Differential Equations and Applications"
+  num: 20001
+  grade: "<strong>Completed</strong>"
+  credits: 3
+  professor: "TBA"
+  field: "math_sci"
+  topic: "Differential Equations"
+  term: "2025-2"
+  textbook: "TBA"
+  note: ""
+
+- title: "Experiment-Oriented General Physics II"
+  num: 10072
+  grade: "<strong>Completed</strong>"
+  credits: 4
+  professor: "TBA"
+  field: "math_sci"
+  topic: "Physics"
+  term: "2025-2"
+  textbook: "TBA"
+  note: ""
+
+- title: "Startup 101"
+  num: 20117
+  grade: "<strong>Completed</strong>"
+  credits: 3
+  professor: "TBA"
+  field: "design"
+  topic: "Entrepreneurship"
+  term: "2025-2"
+  textbook: "TBA"
+  note: ""
+
+- title: "Intermediate English Reading & Writing"
+  num: 10011
+  grade: "<strong>Completed</strong>"
+  credits: 2
+  professor: "TBA"
+  field: "hss"
+  topic: "Communication"
+  term: "2025-2"
+  textbook: "TBA"
+  note: ""
+
+- title: "Freshman Seminar 2: Chemical and Biomolecular Engineering"
+  num: 10090
+  grade: "<strong>Completed</strong>"
+  credits: 1
+  professor: "TBA"
+  field: "hss"
+  topic: "Freshman Seminar"
+  term: "2025-2"
+  textbook: "TBA"
+  note: ""
+
+- title: "Freshman Seminar 2: Aerospace Engineering"
+  num: 10090
+  grade: "<strong>Completed</strong>"
+  credits: 1
+  professor: "TBA"
+  field: "hss"
+  topic: "Freshman Seminar"
+  term: "2025-2"
+  textbook: "TBA"
+  note: ""
+
+# =====================================================================
+# Summer 2025 - UC Berkeley
+# =====================================================================
+
+- title: "ENGIN 170A: Technology Leadership"
+  num: 170
+  grade: "<strong>Completed</strong>"
+  credits: 2
+  professor: "TBA"
+  field: "design"
+  topic: "Technology Leadership"
+  term: "2025-1A"
+  textbook: "TBA"
+  note: "Summer coursework at UC Berkeley, funded by KAIST."
+
+- title: "DESINV 22: Prototyping & Fabrication"
+  num: 22
+  grade: "<strong>Completed</strong>"
+  credits: 3
+  professor: "TBA"
+  field: "design"
+  topic: "Prototyping and Fabrication"
+  term: "2025-1A"
+  textbook: "TBA"
+  note: "Summer coursework at UC Berkeley, funded by KAIST."
+
+# =====================================================================
+# Spring 2025
+# =====================================================================
+
+- title: "EE 20001: Circuit Theory"
+  num: 20001
+  grade: "<strong>Completed</strong>"
+  credits: 3
+  professor: "Prof. Bongjin Kim"
+  field: "ee_core"
+  topic: "Circuits"
+  term: "2025-1"
+  textbook: "TBA"
+  note: ""
+
+- title: "MAS 10001: Calculus I"
+  num: 10001
+  grade: "<strong>Completed</strong>"
+  credits: 3
+  professor: "TBA"
+  field: "math_sci"
+  topic: "Calculus"
+  term: "2025-1"
+  textbook: "TBA"
+  note: ""
+
+- title: "PH 10041: General Physics I"
+  num: 10041
+  grade: "<strong>Completed</strong>"
+  credits: 3
+  professor: "TBA"
+  field: "math_sci"
+  topic: "Physics"
+  term: "2025-1"
+  textbook: "TBA"
+  note: ""
+
+- title: "BS 10020: General Biology"
+  num: 10020
+  grade: "<strong>Completed</strong>"
+  credits: 3
+  professor: "TBA"
+  field: "sensing_bio"
+  topic: "Biology"
+  term: "2025-1"
+  textbook: "TBA"
+  note: ""
+
+- title: "CH 10002: General Chemistry Experiment I"
+  num: 10002
+  grade: "<strong>Completed</strong>"
+  credits: 1
+  professor: "TBA"
+  field: "math_sci"
+  topic: "Chemistry"
+  term: "2025-1"
+  textbook: "TBA"
+  note: ""
+
+- title: "Freshman Seminar 1: Mechanical Engineering"
+  num: 10089
+  grade: "<strong>Completed</strong>"
+  credits: 1
+  professor: "TBA"
+  field: "design"
+  topic: "Freshman Seminar"
+  term: "2025-1"
+  textbook: "TBA"
+  note: ""
+
+- title: "Freshman Seminar 1: School of Electrical Engineering"
+  num: 10089
+  grade: "<strong>Completed</strong>"
+  credits: 1
+  professor: "TBA"
+  field: "ee_core"
+  topic: "Freshman Seminar"
+  term: "2025-1"
+  textbook: "TBA"
+  note: ""
+
+- title: "Humanity/Leadership III: Winning Hearts and Minds in Personal and Professional Conversations"
+  num: 10074
+  grade: "<strong>Completed</strong>"
+  credits: 0
+  professor: "TBA"
+  field: "hss"
+  topic: "Leadership"
+  term: "2025-1"
+  textbook: "TBA"
+  note: ""
+
+- title: "Happy College Life"
+  num: 10195
+  grade: "<strong>Completed</strong>"
+  credits: 0
+  professor: "TBA"
+  field: "hss"
+  topic: "Campus Life"
+  term: "2025-1"
+  textbook: "TBA"
+  note: ""
