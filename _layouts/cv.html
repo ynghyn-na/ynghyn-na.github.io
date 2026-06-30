@@ -7,7 +7,6 @@ layout: default
 <div class="row g-5 mb-5">
   <div>
 
-
 <div class="d-flex justify-content-between align-items-center border-bottom pb-3 mb-5">
   <h3 class="fw-bold mb-0">Curriculum Vitae</h3>
 
@@ -18,8 +17,6 @@ layout: default
     Download PDF CV
   </a>
 </div>
-
-
     
         <!--- 1. Contact/Address --->
     <div class="row g-5 mb-5">
@@ -51,36 +48,105 @@ layout: default
       </div>
     </div>
 
-
-    <!--- 3-1. Research experience --->
+    <!-- 3-0. Research Interests -->
     <div class="row g-5 mb-5">
       <div class="col-md-2">
-        <h4 class="border-bottom">Research Experience</h4>
+        <h4 class="border-bottom">Research Interests</h4>
+      </div>
+      <div class="col-md-10">
+        <p>
+          Human-centered smart hardware systems; wearable and assistive devices;
+          embedded sensing systems; bioelectronics and health-related sensing;
+          robotics and physical computing; rapid prototyping and fabrication.
+        </p>
+      </div>
+    </div>
+  
+    <!-- 3-1. Research -->
+    <div class="row g-5 mb-5">
+      <div class="col-md-2">
+        <h4 class="border-bottom">Research</h4>
       </div>
       <div class="col-md-10">
         {% for section in site.data.cv.research %}
-          <p class="fw-bold">{{ section.title }}</br>
-          <small class="text-muted">{{ section.duration }}</small>
-          </p>
-        <p>{{ section.description }}<br></p>
+          <div class="mb-4">
+            <p class="fw-bold mb-1">{{ section.title }}<br>
+              <small class="text-muted">{{ section.duration }}</small>
+            </p>
+
+            {% if section.advisor %}
+              <p class="mb-1"><small>{{ section.advisor }}</small></p>
+            {% endif %}
+            {% if section.mentor %}
+              <p class="mb-1"><small>{{ section.mentor }}</small></p>
+            {% endif %}
+
+            {% if section.image %}
+              <img src="{{ section.image | relative_url }}" alt="{{ section.title }}" class="img-fluid rounded mb-2" style="max-width: 420px;">
+            {% endif %}
+
+            <p>
+              {% if section.link %}
+                <a href="{{ section.link }}" target="_blank">Project Link</a>
+              {% endif %}
+              {% if section.report %}
+                {% if section.link %} | {% endif %}
+                <a href="{{ section.report }}" target="_blank">Report</a>
+              {% endif %}
+            </p>
+
+            <p>{{ section.description }}</p>
+          </div>
         {% endfor %}
       </div>
     </div>
-    
-    <!--- 3-2. Industry Experience --->
+
+    <!-- 3-2. Internship -->
     <div class="row g-5 mb-5">
       <div class="col-md-2">
-        <h4 class="border-bottom">Industry Experience</h4>
+        <h4 class="border-bottom">Industry</h4>
       </div>
       <div class="col-md-10">
         {% for section in site.data.cv.internship %}
-          <p class="fw-bold">{{ section.title }}</br>
-          <small class="text-muted">{{ section.duration }}</small>
-          </p>
-        <p>{{ section.description }}<br></p>
+          <p class="fw-bold">{{ section.title }}<br>
+          <small class="text-muted">{{ section.duration }}</small></p>
+          <p>{{ section.description }}</p>
         {% endfor %}
       </div>
     </div>
+
+        <!-- 3-3. Selected Projects
+    <div class="row g-5 mb-5">
+      <div class="col-md-2">
+        <h4 class="border-bottom">Selected Projects</h4>
+      </div>
+      <div class="col-md-10">
+        {% for section in site.data.cv.projects %}
+          <div class="mb-4">
+            <p class="fw-bold mb-1">{{ section.title }}<br>
+              <small class="text-muted">{{ section.duration }}{% if section.type %} · {{ section.type }}{% endif %}</small>
+            </p>
+
+            {% if section.image %}
+              <img src="{{ section.image | relative_url }}" alt="{{ section.title }}" class="img-fluid rounded mb-2" style="max-width: 420px;">
+            {% endif %}
+
+            <p>
+              {% if section.link %}
+                <a href="{{ section.link }}" target="_blank">Project Link</a>
+              {% endif %}
+              {% if section.report %}
+                {% if section.link %} | {% endif %}
+                <a href="{{ section.report }}" target="_blank">Report</a>
+              {% endif %}
+            </p>
+
+            <p>{{ section.description }}</p>
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+--->
     
     <!--- 4. Honors & Awards --->
     <div class="row g-5 mb-5">
