@@ -1,19 +1,19 @@
 - id: "ee_core"
   title: "Electrical Engineering Core"
-  description: "Core coursework in circuits, signals, electronics, electromagnetics, and EE design foundations."
+#  description: "Core coursework in circuits, signals, electronics, electromagnetics, and EE design foundations."
 
 - id: "smart_hardware"
   title: "Smart Hardware, Sensing, and Physical Computing"
-  description: "Coursework related to embedded systems, sensing, bioelectronics, wearable devices, robotics, and physical computing."
+#  description: "Coursework related to embedded systems, sensing, bioelectronics, wearable devices, robotics, and physical computing."
 
 - id: "design_build"
   title: "Design, Prototyping, and Entrepreneurship"
-  description: "Project-oriented coursework in engineering design, prototyping, fabrication, startup, and product development."
+#  description: "Project-oriented coursework in engineering design, prototyping, fabrication, startup, and product development."
 
 - id: "research"
   title: "Research and Independent Study"
-  description: "Independent research, URP, graduation research, and project-based academic work."
+#  description: "Independent research, URP, graduation research, and project-based academic work."
 
 - id: "other_basic"
   title: "Other / Basic Coursework"
-  description: "Mathematics, basic sciences, humanities, communication, leadership, and general education coursework."
+#  description: "Mathematics, basic sciences, humanities, communication, leadership, and general education coursework."
