@@ -1,4 +1,10 @@
-- title: 'Marinemate'
-  description: 'A startup building "AI Marina", a predictive-maintenance solution tailored for ship engine rooms. <br>
-  As a Hardware Engineer, I packaged data-collection sensors, built prototype sensor modules, and provided technical support and guidance. <br>'
+- title: 'Hardware Engineer Intern, Marinemate'
   duration: '(Apr 2025–Jun 2025)'
+  image: ''
+  link: ''
+  description: |
+    <ul style="font-size: 0.9em;">
+      <li>Built and packaged prototype sensor modules for AI Marina, a predictive-maintenance solution for ship engine rooms.</li>
+      <li>Integrated MQ-2 gas sensors, DHT11 temperature/humidity sensors, microphone-based sound sensors, and SW-520D vibration sensors for early-stage data collection.</li>
+      <li>Supported sensor packaging, hardware prototyping, and technical guidance during product development.</li>
+    </ul>
