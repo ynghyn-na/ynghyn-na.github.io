@@ -107,15 +107,15 @@
 # =====================================================================
 
 - title: "Advanced Chemistry or General Chemistry"
-   num: 10001
-   # grade: "<strong>Planned</strong>"
-   credits: 3
-   professor: "TBA"
-   field: "other_basic"
-   topic: "Chemistry"
-   term: "2026-2"
-   textbook: "TBA"
-   note: "Planned to satisfy the remaining chemistry requirement."
+  num: 10001
+  # grade: "<strong>Planned</strong>"
+  credits: 3
+  professor: "TBA"
+  field: "other_basic"
+  topic: "Chemistry"
+  term: "2026-2"
+  textbook: "TBA"
+  note: "Planned to satisfy the remaining chemistry requirement."
 
 # - title: "Electromagnetics or Probability and Introductory Random Processes"
 #   num: 20010
@@ -140,15 +140,15 @@
 #   note: "Candidate courses include sensing, patent/business, design, or project-based engineering courses."
 
 - title: "MyEE 2 / EE Career Design II"
-   num: 10002
-   # grade: "<strong>Planned</strong>"
-   credits: 1
-   professor: "TBA"
-   field: "other_basic"
-   topic: "Career Design"
-   term: "2026-2"
-   textbook: "TBA"
-   note: "Planned for EE career exploration and research direction refinement."
+  num: 10002
+  #grade: "<strong>Planned</strong>"
+  credits: 1
+  professor: "TBA"
+  field: "other_basic"
+  topic: "Career Design"
+  term: "2026-2"
+  textbook: "TBA"
+  note: "Planned for EE career exploration and research direction refinement."
 
 # =====================================================================
 # Summer 2026
