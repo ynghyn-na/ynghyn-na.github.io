@@ -69,7 +69,18 @@ layout: default
       <div class="col-md-10">
         {% for section in site.data.cv.research %}
           <div class="mb-4">
-            <p class="fw-bold mb-1">{{ section.title }}<br>
+            <p class="fw-bold mb-1">
+              {% if section.link %}
+                <a href="{{ section.link }}"
+                   target="_blank"
+                   rel="noopener"
+                   style="text-decoration: none; color: inherit;">
+                  {{ section.title }}
+                </a>
+              {% else %}
+                {{ section.title }}
+              {% endif %}
+              <br>
               <small class="text-muted">{{ section.duration }}</small>
             </p>
 
@@ -79,21 +90,6 @@ layout: default
             {% if section.mentor %}
               <p class="mb-1"><small>{{ section.mentor }}</small></p>
             {% endif %}
-
-            {% if section.image %}
-              <img src="{{ section.image | relative_url }}" alt="{{ section.title }}" class="img-fluid rounded mb-2" style="max-width: 420px;">
-            {% endif %}
-
-            <p>
-              {% if section.link %}
-                <a href="{{ section.link }}" target="_blank">Project Link</a>
-              {% endif %}
-              {% if section.report %}
-                {% if section.link %} | {% endif %}
-                <a href="{{ section.report }}" target="_blank">Report</a>
-              {% endif %}
-            </p>
-
             <p>{{ section.description }}</p>
           </div>
         {% endfor %}
@@ -122,24 +118,22 @@ layout: default
       <div class="col-md-10">
         {% for section in site.data.cv.projects %}
           <div class="mb-4">
-            <p class="fw-bold mb-1">{{ section.title }}<br>
-              <small class="text-muted">{{ section.duration }}{% if section.type %} · {{ section.type }}{% endif %}</small>
-            </p>
-
-            {% if section.image %}
-              <img src="{{ section.image | relative_url }}" alt="{{ section.title }}" class="img-fluid rounded mb-2" style="max-width: 420px;">
-            {% endif %}
-
-            <p>
+            <p class="fw-bold mb-1">
               {% if section.link %}
-                <a href="{{ section.link }}" target="_blank">Project Link</a>
+                <a href="{{ section.link }}"
+                   target="_blank"
+                   rel="noopener"
+                   style="text-decoration: none; color: inherit;">
+                  {{ section.title }}
+                </a>
+              {% else %}
+                {{ section.title }}
               {% endif %}
-              {% if section.report %}
-                {% if section.link %} | {% endif %}
-                <a href="{{ section.report }}" target="_blank">Report</a>
-              {% endif %}
+              <br>
+              <small class="text-muted">
+                {{ section.duration }}{% if section.type %} · {{ section.type }}{% endif %}
+              </small>
             </p>
-
             <p>{{ section.description }}</p>
           </div>
         {% endfor %}
