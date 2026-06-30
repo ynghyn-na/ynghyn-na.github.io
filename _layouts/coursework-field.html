@@ -34,11 +34,27 @@ layout: default
                 
                 <p class="fw-bold mb-2">{{ course.title }}</p>
                 <p class="mb-4">
-                  {{ course.grade }}
-                  {% if course.credits %} • {{ course.credits }} credits{% endif %}
-                  {% if matched_term %} • {{ matched_term.title }}{% endif %}
-                  {% if course.professor and course.professor != "" %} • {{ course.professor }}{% endif %}
-                  <br>
+  {% assign printed = false %}
+
+  {% if course.grade %}
+    {{ course.grade }}
+    {% assign printed = true %}
+  {% endif %}
+
+  {% if course.credits %}
+    {% if printed %} • {% endif %}{{ course.credits }} credits
+    {% assign printed = true %}
+  {% endif %}
+
+  {% if matched_term %}
+    {% if printed %} • {% endif %}{{ matched_term.title }}
+    {% assign printed = true %}
+  {% endif %}
+
+  {% if course.professor and course.professor != "" %}
+    {% if printed %} • {% endif %}{{ course.professor }}
+  {% endif %}
+  <br>
 
                   {% if course.topic and course.topic != "" %}
                     <small><b>Area:</b> {{ course.topic }}</small><br>
