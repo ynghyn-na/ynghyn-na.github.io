@@ -1,0 +1,54 @@
+---
+layout: default
+---
+
+{{ content }}
+
+<div class="row g-5 mb-5">
+  <div>
+    
+    <h3 class="fw-bold border-bottom pb-3 mb-5">Coursework in Mathematics</h3>
+
+    <p class="mb-4 text-end">
+      <a href="/coursework-term" style="color: #E77500 !important; text-decoration: none;">
+        <strong>View by Term →</strong>
+      </a>
+    </p>
+    
+    {% for field in site.data.cw.fields %}
+      {% assign courses_in_field = site.data.cw.coursework | where: "field", field.id %}
+      
+      {% if courses_in_field.size > 0 %}
+        <div class="mb-5 row gx-5">
+          <div class="col-12">
+            <h4 class="border-bottom mb-4">{{ field.title }}</h4>
+            <div class="ps-md-4">
+              
+              {% assign sorted_courses = courses_in_field | sort: "num" %}
+              {% for course in sorted_courses %}
+                
+                {% assign matched_term = site.data.cw.terms | where: "id", course.term | first %}
+                
+                <p class="fw-bold mb-2">{{ course.title }}</p>
+                <p class="mb-4">
+                  {{ course.grade }} • {{ matched_term.title }} • {{ course.professor }}<br>
+                  <small class="d-flex">
+                    <span class="me-2">Textbook:</span>
+                    <span class="d-block">
+                      {% assign books = course.textbook | split: "<br>" %}
+                      {% for book in books %}
+                        {{ book }}<br>
+                      {% endfor %}
+                    </span>
+                  </small>
+                </p>
+              {% endfor %}
+              
+            </div>
+          </div>
+        </div>
+      {% endif %}
+    {% endfor %}
+    
+  </div>
+</div>
