@@ -176,15 +176,15 @@
   note: ""
 
 - title: "CS 101: Programming Basics"
-   num: 101
-   # grade: "<strong>Credit Examination Planned</strong>"
-   credits: 3
-   professor: "TBA"
-   field: "smart_hardware"
-   topic: "Programming"
-   term: "2026-1A"
-   textbook: "TBA"
-   note: "Planned through KAIST credit examination."
+  num: 101
+  # grade: "<strong>Credit Examination Planned</strong>"
+  credits: 3
+  professor: "TBA"
+  field: "smart_hardware"
+  topic: "Programming"
+  term: "2026-1A"
+  textbook: "TBA"
+  note: "Planned through KAIST credit examination."
 
 # =====================================================================
 # Spring 2026
