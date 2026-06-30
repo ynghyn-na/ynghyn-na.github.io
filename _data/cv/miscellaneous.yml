@@ -1,11 +1,19 @@
 - title: 'Languages'
-  description: 'Korean, English<br>'
+  description: |
+    Korean: Native<br>
+    English: Upper-intermediate
 
 - title: 'Programming'
   description: 'Python, MATLAB, C, C++, C#<br>'
 
-- title: 'Available Tools'
-  description: 'KiCad, Fusion360, LTspice, XTool, CNC/MCT Machine, Rotating Tools, Woodworking Tools, Spot welding machine, Soldering station<br>'
+- title: 'Electronics & Prototyping'
+  description: |
+    KiCad, LTspice, soldering, sensor prototyping, embedded hardware debugging
+
+- title: 'CAD & Fabrication'
+  description: |
+    Fusion 360, laser cutting, CNC/MCT machine, woodworking tools, rotating tools, spot welding
 
 - title: 'Writing'
-  description: 'LaTeX, Microsoft Word<br>'
+  description: |
+    LaTeX, Microsoft Word
