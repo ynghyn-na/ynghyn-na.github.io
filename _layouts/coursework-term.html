@@ -34,30 +34,30 @@ layout: default
                 
                 <p class="fw-bold mb-2">{{ course.title }}</p>
                 <p class="mb-4">
-  {% assign printed = false %}
+                  {% assign printed = false %}
 
-  {% if course.grade %}
-    {{ course.grade }}
-    {% assign printed = true %}
-  {% endif %}
+                  {% if course.grade %}
+                    {{ course.grade }}
+                    {% assign printed = true %}
+                  {% endif %}
 
-  {% if course.credits %}
-    {% if printed %} • {% endif %}{{ course.credits }} credits
-    {% assign printed = true %}
-  {% endif %}
+                  {% if course.credits %}
+                    {% if printed %} • {% endif %}{{ course.credits }} credits
+                    {% assign printed = true %}
+                  {% endif %}
 
-  {% if course.topic and course.topic != "" %}
-    {% if printed %} • {% endif %}{{ course.topic }}
-    {% assign printed = true %}
-  {% elsif matched_field %}
-    {% if printed %} • {% endif %}{{ matched_field.title }}
-    {% assign printed = true %}
-  {% endif %}
+                  {% if course.topic and course.topic != "" %}
+                    {% if printed %} • {% endif %}{{ course.topic }}
+                    {% assign printed = true %}
+                  {% elsif matched_field %}
+                    {% if printed %} • {% endif %}{{ matched_field.title }}
+                    {% assign printed = true %}
+                  {% endif %}
 
-  {% if course.professor and course.professor != "" %}
-    {% if printed %} • {% endif %}{{ course.professor }}
-  {% endif %}
-  <br>
+                  {% if course.professor and course.professor != "" %}
+                    {% if printed %} • {% endif %}{{ course.professor }}
+                  {% endif %}
+                  <br>
 
                   {% if course.textbook and course.textbook != "" %}
                     <small class="d-flex">
