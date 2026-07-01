@@ -139,16 +139,16 @@
 #   textbook: "TBA"
 #   note: "Candidate courses include sensing, patent/business, design, or project-based engineering courses."
 
-- title: "MyEE 2 / EE Career Design II"
-  num: 10002
-  #grade: "<strong>Planned</strong>"
-  credits: 1
-  professor: "TBA"
-  field: "other_basic"
-  topic: "Career Design"
-  term: "2026-2"
-  textbook: "TBA"
-  note: "Planned for EE career exploration and research direction refinement."
+#- title: "MyEE 2 / EE Career Design II"
+#  num: 10002
+#  #grade: "<strong>Planned</strong>"
+#  credits: 1
+#  professor: "TBA"
+#  field: "other_basic"
+#  topic: "Career Design"
+#  term: "2026-2"
+#  textbook: "TBA"
+#  note: "Planned for EE career exploration and research direction refinement."
 
 # =====================================================================
 # Summer 2026
@@ -175,16 +175,16 @@
   textbook: "TBA"
   note: ""
 
-- title: "CS 101: Programming Basics"
-  num: 101
-  # grade: "<strong>Credit Examination Planned</strong>"
-  credits: 3
-  professor: "TBA"
-  field: "smart_hardware"
-  topic: "Programming"
-  term: "2026-1A"
-  textbook: "TBA"
-  note: "Planned through KAIST credit examination."
+#- title: "CS 101: Programming Basics"
+#  num: 101
+#  # grade: "<strong>Credit Examination Planned</strong>"
+#  credits: 3
+#  professor: "TBA"
+#  field: "smart_hardware"
+#  topic: "Programming"
+#  term: "2026-1A"
+#  textbook: "TBA"
+#  note: "Planned through KAIST credit examination."
 
 # =====================================================================
 # Spring 2026
@@ -245,16 +245,16 @@
   textbook: "TBA"
   note: ""
 
-- title: "EE 20015: EE Career Development I"
-  num: 20015
-  # grade: "<strong>A+</strong>"
-  credits: 1
-  professor: "Prof. Bongjin Kim"
-  field: "other_basic"
-  topic: "Career Design"
-  term: "2026-1"
-  textbook: "TBA"
-  note: "Career exploration course in Electrical Engineering."
+#- title: "EE 20015: EE Career Development I"
+#  num: 20015
+#  # grade: "<strong>A+</strong>"
+#  credits: 1
+#  professor: "Prof. Bongjin Kim"
+#  field: "other_basic"
+#  topic: "Career Design"
+#  term: "2026-1"
+#  textbook: "TBA"
+#  note: "Career exploration course in Electrical Engineering."
 
 # =====================================================================
 # Fall 2025
@@ -326,49 +326,49 @@
   textbook: "TBA"
   note: ""
 
-- title: "HSS 10090: Freshman Seminar 2 (Chemical and Biomolecular Engineering)"
-  num: 10090
-  # grade: "<strong>S</strong>"
-  credits: 1
-  professor: "TBA"
-  field: "other_basic"
-  topic: "Freshman Seminar"
-  term: "2025-2"
-  textbook: "TBA"
-  note: ""
+#- title: "HSS 10090: Freshman Seminar 2 (Chemical and Biomolecular Engineering)"
+#  num: 10090
+#  # grade: "<strong>S</strong>"
+#  credits: 1
+#  professor: "TBA"
+#  field: "other_basic"
+#  topic: "Freshman Seminar"
+#  term: "2025-2"
+#  textbook: "TBA"
+#  note: ""
 
-- title: "HSS 10090: Freshman Seminar 2 (Aerospace Engineering)"
-  num: 10090
-  # grade: "<strong>S</strong>"
-  credits: 1
-  professor: "TBA"
-  field: "other_basic"
-  topic: "Freshman Seminar"
-  term: "2025-2"
-  textbook: "TBA"
-  note: ""
+#- title: "HSS 10090: Freshman Seminar 2 (Aerospace Engineering)"
+#  num: 10090
+#  # grade: "<strong>S</strong>"
+#  credits: 1
+#  professor: "TBA"
+#  field: "other_basic"
+#  topic: "Freshman Seminar"
+#  term: "2025-2"
+#  textbook: "TBA"
+#  note: ""
 
-- title: "HSS 10099: Exciting College Life"
-  num: 10099
-  # grade: "<strong>S</strong>"
-  credits: 0
-  professor: "TBA"
-  field: "other_basic"
-  topic: "Campus Life"
-  term: "2025-2"
-  textbook: "TBA"
-  note: ""
+#- title: "HSS 10099: Exciting College Life"
+#  num: 10099
+#  # grade: "<strong>S</strong>"
+#  credits: 0
+#  professor: "TBA"
+#  field: "other_basic"
+#  topic: "Campus Life"
+#  term: "2025-2"
+#  textbook: "TBA"
+#  note: ""
 
-- title: "HSS 10073: Humanity/Leadership II (Young Leaders Thursday Lecture)"
-  num: 10073
-  # grade: "<strong>S</strong>"
-  credits: 0
-  professor: "TBA"
-  field: "other_basic"
-  topic: "Leadership"
-  term: "2025-2"
-  textbook: "TBA"
-  note: ""
+#- title: "HSS 10073: Humanity/Leadership II (Young Leaders Thursday Lecture)"
+#  num: 10073
+#  # grade: "<strong>S</strong>"
+#  credits: 0
+#  professor: "TBA"
+#  field: "other_basic"
+#  topic: "Leadership"
+#  term: "2025-2"
+#  textbook: "TBA"
+#  note: ""
 
 # =====================================================================
 # Summer 2025 - UC Berkeley
@@ -455,46 +455,46 @@
   textbook: "TBA"
   note: ""
 
-- title: "HSS 10089: Freshman Seminar 1 (Mechanical Engineering)"
-  num: 10089
-  # grade: "<strong>S</strong>"
-  credits: 1
-  professor: "TBA"
-  field: "design_build"
-  topic: "Freshman Seminar"
-  term: "2025-1"
-  textbook: "TBA"
-  note: ""
+#- title: "HSS 10089: Freshman Seminar 1 (Mechanical Engineering)"
+#  num: 10089
+#  # grade: "<strong>S</strong>"
+#  credits: 1
+#  professor: "TBA"
+#  field: "design_build"
+#  topic: "Freshman Seminar"
+#  term: "2025-1"
+#  textbook: "TBA"
+#  note: ""
 
-- title: "HSS 10089: Freshman Seminar 1 (School of Electrical Engineering)"
-  num: 10089
-  # grade: "<strong>S</strong>"
-  credits: 1
-  professor: "TBA"
-  field: "ee_core"
-  topic: "Freshman Seminar"
-  term: "2025-1"
-  textbook: "TBA"
-  note: ""
+#- title: "HSS 10089: Freshman Seminar 1 (School of Electrical Engineering)"
+#  num: 10089
+#  # grade: "<strong>S</strong>"
+#  credits: 1
+#  professor: "TBA"
+#  field: "ee_core"
+#  topic: "Freshman Seminar"
+#  term: "2025-1"
+#  textbook: "TBA"
+#  note: ""
 
-- title: "HSS 10074: Humanity/Leadership III (Winning Hearts and Minds in Personal and Professional Conversations)"
-  num: 10074
-  # grade: "<strong>S</strong>"
-  credits: 0
-  professor: "Staff"
-  field: "other_basic"
-  topic: "Leadership"
-  term: "2025-1"
-  textbook: "TBA"
-  note: ""
+#- title: "HSS 10074: Humanity/Leadership III (Winning Hearts and Minds in Personal and Professional Conversations)"
+#  num: 10074
+#  # grade: "<strong>S</strong>"
+#  credits: 0
+#  professor: "Staff"
+#  field: "other_basic"
+#  topic: "Leadership"
+#  term: "2025-1"
+#  textbook: "TBA"
+#  note: ""
 
-- title: "HSS 10195: Happy College Life"
-  num: 10195
-  # grade: "<strong>S</strong>"
-  credits: 0
-  professor: "TBA"
-  field: "other_basic"
-  topic: "Campus Life"
-  term: "2025-1"
-  textbook: "TBA"
-  note: ""
+#- title: "HSS 10195: Happy College Life"
+#  num: 10195
+#  # grade: "<strong>S</strong>"
+#  credits: 0
+#  professor: "TBA"
+#  field: "other_basic"
+#  topic: "Campus Life"
+#  term: "2025-1"
+#  textbook: "TBA"
+#  note: ""
