@@ -109,10 +109,10 @@
 - title: "Advanced Chemistry or General Chemistry"
   num: 10001
   # grade: "<strong>Planned</strong>"
-  credits: 3
+  # credits: 3
   professor: "TBA"
   field: "other_basic"
-  topic: "Chemistry"
+  # topic: "Chemistry"
   term: "2026-2"
   textbook: "TBA"
   note: "Planned to satisfy the remaining chemistry requirement."
@@ -156,10 +156,10 @@
 - title: "ID 91100: Individual Research (KAIST × Nupjuki Hwatu Card Design)"
   num: 91100
   # grade: "<strong>In Progress</strong>"
-  credits: 1
-  professor: "Prof. Hyun-Jung Suk"
+  # credits: 1
+  professor: "Hyun-Jung Suk"
   field: "research"
-  topic: "Design Research"
+  # topic: "Design Research"
   term: "2026-1A"
   textbook: "TBA"
   note: "Independent research project on a functional Korean hwatu card set integrating traditional game structure with KAIST campus culture and the Nupjuki character."
@@ -167,10 +167,10 @@
 - title: "HSS 20075: Arts of Asia"
   num: 20075
   # grade: "<strong>In Progress</strong>"
-  credits: 3
-  professor: "Prof. Taylor Pak"
+  # credits: 3
+  professor: "Taylor Pak"
   field: "other_basic"
-  topic: "Humanities"
+  # topic: "Humanities"
   term: "2026-1A"
   textbook: "TBA"
   note: ""
@@ -193,10 +193,10 @@
 - title: "ME 20000: Basic Mechanical Practice"
   num: 20000
   # grade: "<strong>A+</strong>"
-  credits: 3
-  professor: "Prof. Jeong Whan Yoon"
+  # credits: 3
+  professor: "Jeong Whan Yoon"
   field: "design_build"
-  topic: "Mechanical Practice"
+  # topic: "Mechanical Practice"
   term: "2026-1"
   textbook: "TBA"
   note: "Hands-on fabrication and mechanical practice course."
@@ -204,10 +204,10 @@
 - title: "BiS 35004: Analog Microelectronic Circuits"
   num: 35004
   # grade: "<strong>A-</strong>"
-  credits: 3
-  professor: "Prof. Yoonkey Nam / Prof. Chul Kim"
+  # credits: 3
+  professor: "Yoonkey Nam / Chul Kim"
   field: "smart_hardware"
-  topic: "Bioelectronics"
+  # topic: "Bioelectronics"
   term: "2026-1"
   textbook: "TBA"
   note: "Coursework related to bioelectronics, circuits, sensing, and health-related hardware."
@@ -215,10 +215,10 @@
 - title: "MAS 10009: Introduction to Linear Algebra"
   num: 10009
   # grade: "<strong>A-</strong>"
-  credits: 3
-  professor: "Prof. Jinhyun Park"
+  # credits: 3
+  professor: "Jinhyun Park"
   field: "other_basic"
-  topic: "Linear Algebra"
+  # topic: "Linear Algebra"
   term: "2026-1"
   textbook: "TBA"
   note: ""
@@ -226,10 +226,10 @@
 - title: "HSS 10010: Intermediate English Speaking & Listening"
   num: 10010
   # grade: "<strong>A+</strong>"
-  credits: 2
-  professor: "Prof. John Looney"
+  # credits: 2
+  professor: "John Looney"
   field: "other_basic"
-  topic: "Communication"
+  # topic: "Communication"
   term: "2026-1"
   textbook: "TBA"
   note: ""
@@ -237,10 +237,10 @@
 - title: "HSS 30027: Environmental Governance"
   num: 30027
   # grade: "<strong>A+</strong>"
-  credits: 3
-  professor: "Prof. Hana Kim"
+  # credits: 3
+  professor: "Hana Kim"
   field: "other_basic"
-  topic: "Society and Policy"
+  # topic: "Society and Policy"
   term: "2026-1"
   textbook: "TBA"
   note: ""
@@ -249,7 +249,7 @@
 #  num: 20015
 #  # grade: "<strong>A+</strong>"
 #  credits: 1
-#  professor: "Prof. Bongjin Kim"
+#  professor: "Bongjin Kim"
 #  field: "other_basic"
 #  topic: "Career Design"
 #  term: "2026-1"
@@ -263,10 +263,10 @@
 - title: "EE 20002: Signals and Systems"
   num: 20002
   # grade: "<strong>B0</strong>"
-  credits: 3
+  # credits: 3
   professor: "TBA"
   field: "ee_core"
-  topic: "Signals and Systems"
+  # topic: "Signals and Systems"
   term: "2025-2"
   textbook: "TBA"
   note: ""
@@ -274,10 +274,10 @@
 - title: "MAS 10002: Calculus II"
   num: 10002
   # grade: "<strong>B0</strong>"
-  credits: 3
-  professor: "Prof. Minkyu Lim"
+  # credits: 3
+  professor: "Minkyu Lim"
   field: "other_basic"
-  topic: "Calculus"
+  # topic: "Calculus"
   term: "2025-2"
   textbook: "TBA"
   note: ""
@@ -285,10 +285,10 @@
 - title: "MAS 20001: Differential Equations and Applications"
   num: 20001
   # grade: "<strong>B-</strong>"
-  credits: 3
+  # credits: 3
   professor: "TBA"
   field: "other_basic"
-  topic: "Differential Equations"
+  # topic: "Differential Equations"
   term: "2025-2"
   textbook: "TBA"
   note: ""
@@ -296,10 +296,10 @@
 - title: "PH 10072: Experiment-Oriented General Physics II"
   num: 10072
   # grade: "<strong>A+</strong>"
-  credits: 4
+  # credits: 4
   professor: "TBA"
   field: "other_basic"
-  topic: "Physics"
+  # topic: "Physics"
   term: "2025-2"
   textbook: "TBA"
   note: ""
@@ -307,10 +307,10 @@
 - title: "HSS 20117: Startup 101"
   num: 20117
   # grade: "<strong>A0</strong>"
-  credits: 3
+  # credits: 3
   professor: "TBA"
   field: "design_build"
-  topic: "Entrepreneurship"
+  # topic: "Entrepreneurship"
   term: "2025-2"
   textbook: "TBA"
   note: ""
@@ -318,10 +318,10 @@
 - title: "HSS 10011: Intermediate English Reading & Writing"
   num: 10011
   # grade: "<strong>A0</strong>"
-  credits: 2
+  # credits: 2
   professor: "TBA"
   field: "other_basic"
-  topic: "Communication"
+  # topic: "Communication"
   term: "2025-2"
   textbook: "TBA"
   note: ""
@@ -377,10 +377,10 @@
 - title: "ENGIN 170A: Technology Leadership"
   num: 170
   # grade: "<strong>P</strong>"
-  credits: 2
+  # credits: 2
   professor: "TBA"
   field: "design_build"
-  topic: "Technology Leadership"
+  # topic: "Technology Leadership"
   term: "2025-1A"
   textbook: "TBA"
   note: "Summer coursework at UC Berkeley, funded by KAIST."
@@ -388,10 +388,10 @@
 - title: "DESINV 22: Prototyping & Fabrication"
   num: 22
   # grade: "<strong>A</strong>"
-  credits: 3
+  # credits: 3
   professor: "TBA"
   field: "design_build"
-  topic: "Prototyping and Fabrication"
+  # topic: "Prototyping and Fabrication"
   term: "2025-1A"
   textbook: "TBA"
   note: "Summer coursework at UC Berkeley, funded by KAIST."
@@ -403,10 +403,10 @@
 - title: "EE 20001: Circuit Theory"
   num: 20001
   # grade: "<strong>B-</strong>"
-  credits: 3
-  professor: "Prof. Bongjin Kim"
+  # credits: 3
+  professor: "Bongjin Kim"
   field: "ee_core"
-  topic: "Circuits"
+  # topic: "Circuits"
   term: "2025-1"
   textbook: "TBA"
   note: ""
@@ -414,10 +414,10 @@
 - title: "MAS 10001: Calculus I"
   num: 10001
   # grade: "<strong>C0</strong>"
-  credits: 3
-  professor: "Prof. Minkyu Lim"
+  # credits: 3
+  professor: "Minkyu Lim"
   field: "other_basic"
-  topic: "Calculus"
+  # topic: "Calculus"
   term: "2025-1"
   textbook: "TBA"
   note: ""
@@ -425,10 +425,10 @@
 - title: "PH 10041: General Physics I"
   num: 10041
   # grade: "<strong>A-</strong>"
-  credits: 3
-  professor: "Prof. Sungwoo Hong"
+  # credits: 3
+  professor: "Sungwoo Hong"
   field: "other_basic"
-  topic: "Physics"
+  # topic: "Physics"
   term: "2025-1"
   textbook: "TBA"
   note: ""
@@ -436,10 +436,10 @@
 - title: "BS 10020: General Biology"
   num: 10020
   # grade: "<strong>A+</strong>"
-  credits: 3
-  professor: "Prof. Jinju Han"
+  # credits: 3
+  professor: "Jinju Han"
   field: "smart_hardware"
-  topic: "Biology"
+  # topic: "Biology"
   term: "2025-1"
   textbook: "TBA"
   note: ""
@@ -447,10 +447,10 @@
 - title: "CH 10002: General Chemistry Experiment I"
   num: 10002
   # grade: "<strong>A+</strong>"
-  credits: 1
-  professor: "Prof. Sangkyu Kim"
+  # credits: 1
+  professor: "Sangkyu Kim"
   field: "other_basic"
-  topic: "Chemistry"
+  # topic: "Chemistry"
   term: "2025-1"
   textbook: "TBA"
   note: ""
