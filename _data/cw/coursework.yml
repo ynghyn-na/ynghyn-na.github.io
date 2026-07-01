@@ -106,7 +106,7 @@
 # Fall 2026 - Planned
 # =====================================================================
 
-- title: "Advanced Chemistry or General Chemistry"
+- title: "Advanced Chemistry"
   num: 10001
   # grade: "<strong>Planned</strong>"
   # credits: 3
@@ -115,7 +115,7 @@
   # topic: "Chemistry"
   term: "2026-2"
   textbook: "TBA"
-  note: "Planned to satisfy the remaining chemistry requirement."
+  # note: "Planned to satisfy the remaining chemistry requirement."
 
 # - title: "Electromagnetics or Probability and Introductory Random Processes"
 #   num: 20010
@@ -153,7 +153,7 @@
 # =====================================================================
 # Summer 2026
 # =====================================================================
-- title: "ID 91100: Individual Research (KAIST × Nupjuki Hwatu Card Design)"
+- title: "ID 911: Individual Research (KAIST × Nupjuki Hwatu Card Design)"
   num: 91100
   # grade: "<strong>In Progress</strong>"
   # credits: 1
@@ -161,17 +161,17 @@
   field: "research"
   # topic: "Design Research"
   term: "2026-1A"
-  textbook: "TBA"
-  note: "Independent research project on a functional Korean hwatu card set integrating traditional game structure with KAIST campus culture and the Nupjuki character."
+  # textbook: "TBA"
+  # note: "Independent research project on a functional Korean hwatu card set integrating traditional game structure with KAIST campus culture and the Nupjuki character."
 
-- title: "HSS 20075: Arts of Asia"
+- title: "HSS 275: Arts of Asia"
   num: 20075
   # grade: "<strong>In Progress</strong>"
   # credits: 3
   professor: "Taylor Pak"
-  field: "other_basic"
+#  field: "other_basic"
   # topic: "Humanities"
-  term: "2026-1A"
+#  term: "2026-1A"
   textbook: "TBA"
   note: ""
 
@@ -190,7 +190,7 @@
 # Spring 2026
 # =====================================================================
 
-- title: "ME 20000: Basic Mechanical Practice"
+- title: "ME 200: Basic Mechanical Practice"
   num: 20000
   # grade: "<strong>A+</strong>"
   # credits: 3
@@ -201,7 +201,7 @@
   textbook: "TBA"
   note: "Hands-on fabrication and mechanical practice course."
 
-- title: "BiS 35004: Analog Microelectronic Circuits"
+- title: "BiS 354: Analog Microelectronic Circuits"
   num: 35004
   # grade: "<strong>A-</strong>"
   # credits: 3
@@ -212,7 +212,7 @@
   textbook: "TBA"
   note: "Coursework related to bioelectronics, circuits, sensing, and health-related hardware."
 
-- title: "MAS 10009: Introduction to Linear Algebra"
+- title: "MAS 109: Introduction to Linear Algebra"
   num: 10009
   # grade: "<strong>A-</strong>"
   # credits: 3
@@ -223,25 +223,25 @@
   textbook: "TBA"
   note: ""
 
-- title: "HSS 10010: Intermediate English Speaking & Listening"
+- title: "HSS 110: Intermediate English Speaking & Listening"
   num: 10010
   # grade: "<strong>A+</strong>"
   # credits: 2
   professor: "John Looney"
-  field: "other_basic"
+#  field: "other_basic"
   # topic: "Communication"
-  term: "2026-1"
+#  term: "2026-1"
   textbook: "TBA"
   note: ""
 
-- title: "HSS 30027: Environmental Governance"
+- title: "HSS 327: Environmental Governance"
   num: 30027
   # grade: "<strong>A+</strong>"
   # credits: 3
   professor: "Hana Kim"
-  field: "other_basic"
+#  field: "other_basic"
   # topic: "Society and Policy"
-  term: "2026-1"
+#  term: "2026-1"
   textbook: "TBA"
   note: ""
 
@@ -260,18 +260,18 @@
 # Fall 2025
 # =====================================================================
 
-- title: "EE 20002: Signals and Systems"
+- title: "EE 202: Signals and Systems"
   num: 20002
   # grade: "<strong>B0</strong>"
   # credits: 3
-  professor: "TBA"
+  professor: "Junmo Kim"
   field: "ee_core"
   # topic: "Signals and Systems"
   term: "2025-2"
   textbook: "TBA"
   note: ""
 
-- title: "MAS 10002: Calculus II"
+- title: "MAS 102: Calculus II"
   num: 10002
   # grade: "<strong>B0</strong>"
   # credits: 3
@@ -282,47 +282,47 @@
   textbook: "TBA"
   note: ""
 
-- title: "MAS 20001: Differential Equations and Applications"
+- title: "MAS 201: Differential Equations and Applications"
   num: 20001
   # grade: "<strong>B-</strong>"
   # credits: 3
-  professor: "TBA"
+  professor: "Changock Lee"
   field: "other_basic"
   # topic: "Differential Equations"
   term: "2025-2"
   textbook: "TBA"
   note: ""
 
-- title: "PH 10072: Experiment-Oriented General Physics II"
+- title: "PH 172: Experiment-Oriented General Physics II"
   num: 10072
   # grade: "<strong>A+</strong>"
   # credits: 4
-  professor: "TBA"
+  professor: "Kabjin Kim"
   field: "other_basic"
   # topic: "Physics"
   term: "2025-2"
   textbook: "TBA"
   note: ""
 
-- title: "HSS 20117: Startup 101"
+- title: "HSS 117: Startup 101"
   num: 20117
   # grade: "<strong>A0</strong>"
   # credits: 3
-  professor: "TBA"
+  professor: "Jaehu Shim, Yongjoon Hyoung"
   field: "design_build"
   # topic: "Entrepreneurship"
   term: "2025-2"
   textbook: "TBA"
   note: ""
 
-- title: "HSS 10011: Intermediate English Reading & Writing"
+- title: "HSS 111: Intermediate English Reading & Writing"
   num: 10011
   # grade: "<strong>A0</strong>"
   # credits: 2
   professor: "TBA"
-  field: "other_basic"
+#  field: "other_basic"
   # topic: "Communication"
-  term: "2025-2"
+#  term: "2025-2"
   textbook: "TBA"
   note: ""
 
@@ -378,7 +378,7 @@
   num: 170
   # grade: "<strong>P</strong>"
   # credits: 2
-  professor: "TBA"
+  professor: "Nima Shomali"
   field: "design_build"
   # topic: "Technology Leadership"
   term: "2025-1A"
@@ -389,7 +389,7 @@
   num: 22
   # grade: "<strong>A</strong>"
   # credits: 3
-  professor: "TBA"
+  professor: "Chris Myers"
   field: "design_build"
   # topic: "Prototyping and Fabrication"
   term: "2025-1A"
@@ -400,7 +400,7 @@
 # Spring 2025
 # =====================================================================
 
-- title: "EE 20001: Circuit Theory"
+- title: "EE 201: Circuit Theory"
   num: 20001
   # grade: "<strong>B-</strong>"
   # credits: 3
@@ -411,7 +411,7 @@
   textbook: "TBA"
   note: ""
 
-- title: "MAS 10001: Calculus I"
+- title: "MAS 101: Calculus I"
   num: 10001
   # grade: "<strong>C0</strong>"
   # credits: 3
@@ -422,7 +422,7 @@
   textbook: "TBA"
   note: ""
 
-- title: "PH 10041: General Physics I"
+- title: "PH 141: General Physics I"
   num: 10041
   # grade: "<strong>A-</strong>"
   # credits: 3
@@ -433,27 +433,27 @@
   textbook: "TBA"
   note: ""
 
-- title: "BS 10020: General Biology"
+- title: "BS 120: General Biology"
   num: 10020
   # grade: "<strong>A+</strong>"
   # credits: 3
   professor: "Jinju Han"
-  field: "smart_hardware"
+#  field: "smart_hardware"
   # topic: "Biology"
-  term: "2025-1"
+#  term: "2025-1"
   textbook: "TBA"
   note: ""
 
-- title: "CH 10002: General Chemistry Experiment I"
-  num: 10002
-  # grade: "<strong>A+</strong>"
-  # credits: 1
-  professor: "Sangkyu Kim"
-  field: "other_basic"
-  # topic: "Chemistry"
-  term: "2025-1"
-  textbook: "TBA"
-  note: ""
+#- title: "CH 102: General Chemistry Experiment I"
+#  num: 10002
+#  # grade: "<strong>A+</strong>"
+#  # credits: 1
+#  professor: "Sangkyu Kim"
+#  field: "other_basic"
+#  # topic: "Chemistry"
+#  term: "2025-1"
+#  textbook: "TBA"
+#  note: ""
 
 #- title: "HSS 10089: Freshman Seminar 1 (Mechanical Engineering)"
 #  num: 10089
