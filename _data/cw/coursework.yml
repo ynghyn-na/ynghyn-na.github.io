@@ -198,7 +198,7 @@
   field: "design_build"
   # topic: "Mechanical Practice"
   term: "2026-1"
-  textbook: "TBA"
+  #textbook: "TBA"
   note: "Hands-on fabrication and mechanical practice course."
 
 - title: "BiS 354: Analog Microelectronic Circuits"
@@ -209,7 +209,7 @@
   field: "smart_hardware"
   # topic: "Bioelectronics"
   term: "2026-1"
-  textbook: "TBA"
+  textbook: "Giorgio Rizzoni's Fundamentals of Electrical Engineering (ch 1-11), Nilsson & Riedel's Electric Circuits (ch 15)"
   note: "Coursework related to bioelectronics, circuits, sensing, and health-related hardware."
 
 - title: "MAS 109: Introduction to Linear Algebra"
@@ -220,7 +220,7 @@
   field: "other_basic"
   # topic: "Linear Algebra"
   term: "2026-1"
-  textbook: "TBA"
+  textbook: "H. Anton and R.C. Busby's Contemporary Linear Algebra (ch 2-4, 6-8)"
   note: ""
 
 - title: "HSS 110: Intermediate English Speaking & Listening"
@@ -268,7 +268,7 @@
   field: "ee_core"
   # topic: "Signals and Systems"
   term: "2025-2"
-  textbook: "TBA"
+  textbook: "Alan V. Oppenheim and Alan S. Willsky's Signals and Systems (ch 1-10)"
   note: ""
 
 - title: "MAS 102: Calculus II"
@@ -279,7 +279,7 @@
   field: "other_basic"
   # topic: "Calculus"
   term: "2025-2"
-  textbook: "TBA"
+  textbook: "Kim's 25 Lectures for Undergraduate Calculus II"
   note: ""
 
 - title: "MAS 201: Differential Equations and Applications"
@@ -290,7 +290,7 @@
   field: "other_basic"
   # topic: "Differential Equations"
   term: "2025-2"
-  textbook: "TBA"
+  textbook: "Dennis G. Zill's Advanced Engineering Mathematics (ch 1-5, 10,11)"
   note: ""
 
 - title: "PH 172: Experiment-Oriented General Physics II"
@@ -301,7 +301,7 @@
   field: "other_basic"
   # topic: "Physics"
   term: "2025-2"
-  textbook: "TBA"
+  textbook: "Richard Wolfson's Essential University Physics 2 (ch 20-39)"
   note: ""
 
 - title: "HSS 117: Startup 101"
@@ -312,7 +312,7 @@
   field: "design_build"
   # topic: "Entrepreneurship"
   term: "2025-2"
-  textbook: "TBA"
+  #textbook: "TBA"
   note: ""
 
 - title: "HSS 111: Intermediate English Reading & Writing"
@@ -382,7 +382,7 @@
   field: "design_build"
   # topic: "Technology Leadership"
   term: "2025-1A"
-  textbook: "TBA"
+  #textbook: ""
   note: "Summer coursework at UC Berkeley, funded by KAIST."
 
 - title: "DESINV 22: Prototyping & Fabrication"
@@ -393,7 +393,7 @@
   field: "design_build"
   # topic: "Prototyping and Fabrication"
   term: "2025-1A"
-  textbook: "TBA"
+  #textbook: ""
   note: "Summer coursework at UC Berkeley, funded by KAIST."
 
 # =====================================================================
@@ -408,7 +408,7 @@
   field: "ee_core"
   # topic: "Circuits"
   term: "2025-1"
-  textbook: "TBA"
+  textbook: "David Irwin and Robert Nelms's Engineering Circuit Analysis (ch. 1-9, 11-13)"
   note: ""
 
 - title: "MAS 101: Calculus I"
@@ -419,7 +419,7 @@
   field: "other_basic"
   # topic: "Calculus"
   term: "2025-1"
-  textbook: "TBA"
+  textbook: "Kim's 25 Lectures for Undergraduate Calculus I"
   note: ""
 
 - title: "PH 141: General Physics I"
@@ -430,7 +430,7 @@
   field: "other_basic"
   # topic: "Physics"
   term: "2025-1"
-  textbook: "TBA"
+  textbook: "Richard Wolfson's Essential University Physics (ch. 1–19)"
   note: ""
 
 - title: "BS 120: General Biology"
